@@ -7,10 +7,10 @@ I'm new to IT and Web Design. I started learning Jan 2020 with the Odin Project 
 ### Connect with me:
 
 
-![linkedin_social_icon](https://user-images.githubusercontent.com/97799058/154803299-ac69cdae-f779-49d9-9178-adbce5b350b9.png)
-![twitter_social media_icon](https://user-images.githubusercontent.com/97799058/154803362-3e3ef828-4bdb-47da-ae3b-8c37d401d179.png)
-![instagram_social media_icon](https://user-images.githubusercontent.com/97799058/154803305-ba62a717-4c7a-405e-bc91-6acef37c0479.png)
-![facebook_social media_icon](https://user-images.githubusercontent.com/97799058/154803425-8d114e68-21ed-4678-b49d-602cbad03e92.png)
+[![linkedin_social_icon](https://user-images.githubusercontent.com/97799058/154803299-ac69cdae-f779-49d9-9178-adbce5b350b9.png)](https://www.linkedin.com/in/rosalee-knight/)
+[![twitter_social media_icon](https://user-images.githubusercontent.com/97799058/154803362-3e3ef828-4bdb-47da-ae3b-8c37d401d179.png)](https://twitter.com/Rosalee_Knight_)
+[![instagram_social media_icon](https://user-images.githubusercontent.com/97799058/154803305-ba62a717-4c7a-405e-bc91-6acef37c0479.png)](https://www.instagram.com/rosalee_knight_/)
+[![facebook_social media_icon](https://user-images.githubusercontent.com/97799058/154803425-8d114e68-21ed-4678-b49d-602cbad03e92.png)](https://www.facebook.com/rosalee.knight.9/)
 
 -----
 

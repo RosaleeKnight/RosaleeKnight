@@ -1,10 +1,10 @@
-### Hi there 👋
+### Welcome to my profile
 
 I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project and am currently working on my Google IT professional certificate as well.
 
 -----
 
-### Connect with me:
+### Connect with me on
 
 
 [![linkedin_social_icon](https://user-images.githubusercontent.com/97799058/154803299-ac69cdae-f779-49d9-9178-adbce5b350b9.png)](https://www.linkedin.com/in/rosalee-knight/)
@@ -14,7 +14,7 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project 
 
 -----
 
-### Technology 🖥️
+### Technology I use
 
 ![python_icon](https://user-images.githubusercontent.com/97799058/154803833-7c0840c0-4fda-4032-b745-cac0c3a6dfe6.png)
 ![javascript_icon](https://user-images.githubusercontent.com/97799058/154803895-84363ff9-514f-494f-9b0d-d4b31b44530a.png)
@@ -24,9 +24,12 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project 
 
 -----
 
+### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats)
+
+<!--START_SECTION:activity-->
 
 <!--
 **RosaleeKnight/RosaleeKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm new to IT and Web Design. I started learning Jan 2020 with the Odin Project and am currently working on my Google IT professional certificate as well.
+I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project and am currently working on my Google IT professional certificate as well.
 
 -----
 

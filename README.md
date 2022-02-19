@@ -33,3 +33,5 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project 
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/RosaleeKnight/RosaleeKnight/issues/1) in [RosaleeKnight/RosaleeKnight](https://github.com/RosaleeKnight/RosaleeKnight)
+<!--END_SECTION:activity-->

@@ -18,7 +18,7 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project 
 
 ![python_icon](https://user-images.githubusercontent.com/97799058/154803833-7c0840c0-4fda-4032-b745-cac0c3a6dfe6.png)
 ![javascript_icon](https://user-images.githubusercontent.com/97799058/154803895-84363ff9-514f-494f-9b0d-d4b31b44530a.png)
-![nodejs_icon](https://user-images.githubusercontent.com/97799058/154803998-915b92a8-d137-4915-b85b-df5b7bda65c9.png)
+![node_js_icon](https://user-images.githubusercontent.com/97799058/154878925-f8009579-b013-405f-804f-7be03e3472ac.png)
 ![git_social media_icon](https://user-images.githubusercontent.com/97799058/154804278-720889a9-2b87-44e4-bb6e-ae66a55c2062.png)
 ![ubuntu_icon](https://user-images.githubusercontent.com/97799058/154804417-e7273eb5-9a55-43d3-8a5a-2bff581703e9.png)
 

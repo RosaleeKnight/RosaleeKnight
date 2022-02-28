@@ -28,10 +28,3 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats)
 
------
-
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/RosaleeKnight/RosaleeKnight/issues/1) in [RosaleeKnight/RosaleeKnight](https://github.com/RosaleeKnight/RosaleeKnight)
-<!--END_SECTION:activity-->

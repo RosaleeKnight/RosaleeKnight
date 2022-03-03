@@ -1,6 +1,6 @@
 ### Welcome to my profile
 
-I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project and am currently working on my Google IT professional certificate as well.
+I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack.
 
 -----
 

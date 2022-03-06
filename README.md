@@ -1,43 +1,45 @@
 ### 👋 Welcome to my profile
 
-I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack.
+I'm new to Web Design having started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack. My goal is to be a DevOps Engineer.
 <p> You can see what I'm currently up to at https://github.com/RosaleeKnight/project-list </p>
 
 -----
-
-### 🛠️ Tools and Technologies
-
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/156590065-fe5a489d-3b47-4728-b48e-c81c609c91f5.svg" alt="Python" height="64" width="64" ></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/156590129-73dc288f-1f38-49d2-9ec8-6b1007742b90.svg" alt="HTML 5" height="64" width="64" ></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/156590163-b5980a66-34ee-4c3d-a2f2-b7d9a57f9b7a.svg" alt="CSS 3" height="64" width="64" ></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/156590196-f969cf9b-b2ff-48ab-9bcf-cf889a8975f3.svg" alt="JavaScript" height="64" width="64" ></a>
-<a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/156590207-ce800c20-0f28-47c3-a246-dfceb6bca331.svg" alt="Jest" height="64" width="64" ></a>
-<a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/156590229-ce06fb6a-f2df-484c-ad81-e2ca4c80ea67.svg" alt="SASS" height="64" width="64" ></a>
-<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/156590256-0cb76dd6-b01d-4740-82fe-5b545e1a1ef4.svg" alt="Node JS" height="64" width="64" ></a>
-<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/156590419-3c435384-0eff-4c03-aa75-6bb9dbafd048.svg" alt="Git" height="64" width="64" ></a>
-<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/156590459-9b0e1cd4-66c7-4767-a683-398abb5904af.svg" alt="Visual Studio Code" height="64" width="64" ></a>
-<a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/156590491-48011eb7-ec98-4d6e-b54a-9cf07e376442.svg" alt="Ubuntu" height="64" width="64" ></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/156590525-00d9d88c-e74e-4ac7-918c-d7d6aca69a2f.svg" alt="Bash" height="64" width="64" ></a>
+### 🛠️ Currently used tools and technologies
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" ></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" ></a>
+<a href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" ></a>
+<a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" ></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" ></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" ></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNU BaSH" ></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" ></a>
 
 -----
-
-### 📖 What I'm Learning
-
-<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/156591976-8bc16a2d-262b-401d-9cf2-8a7f301971a2.svg" alt="React JS" height="64" width="64" ></a>
-<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/97799058/156592010-ba9fd3c4-8623-4891-8a9e-3736db1030bc.svg" alt="Express JS" height="64" width="64" ></a>
-<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/97799058/156592037-1fcb0a09-31c2-4b06-8ef0-64cdba0cf48a.svg" alt="Mongo DB" height="64" width="64" ></a>
+### 🧰 I have previous experience with
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" ></a>
+<a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" ></a>
+<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="Powershell" ></a>
+<a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11" ></a>
 
 -----
+### 📖 I'm currently learning
+<a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" ></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" ></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" ></a>
 
+-----
+### 📝 I'd like to learn in the future
+...
+
+-----
 ### 👩‍💻 Connect with me
-
-<a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/156588447-3c52bef6-5bb2-4049-acea-e87c6ec16e50.svg" alt="LinkedIn" height="64" width="64" ></a>
-<a href="https://twitter.com/Rosalee_Knight_"><img src="https://user-images.githubusercontent.com/97799058/156588508-15354b55-c89f-4241-9b6b-11602002a8f3.svg" alt="Twitter" height="64" width="64" ></a>
-<a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/156588532-e4734eb0-8c8f-4534-bfca-98db6baceb9f.svg" alt="Instagram" height="64" width="64" ></a>
-<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/156588576-7f32336f-57ec-4158-887f-d4534aaa2778.svg" alt="Facebook" height="64" width="64" ></a>
+<a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" ></a>
+<a href="https://twitter.com/Rosalee_Knight_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" ></a>
+<a href="https://www.instagram.com/rosalee_knight_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
+<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" ></a>
 
 -----
-
 ### 📊 GitHub Stats
 
 <a href="https://github.com/RosaleeKnight/github-readme-stats">

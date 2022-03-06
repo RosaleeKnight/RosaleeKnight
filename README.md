@@ -1,19 +1,10 @@
-### Welcome to my profile
+### 👋 Welcome to my profile
 
 I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack.
 
 -----
 
-### Connect with me on
-
-<a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/156588447-3c52bef6-5bb2-4049-acea-e87c6ec16e50.svg" alt="LinkedIn" height="64" width="64" ></a>
-<a href="https://twitter.com/Rosalee_Knight_"><img src="https://user-images.githubusercontent.com/97799058/156588508-15354b55-c89f-4241-9b6b-11602002a8f3.svg" alt="Twitter" height="64" width="64" ></a>
-<a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/156588532-e4734eb0-8c8f-4534-bfca-98db6baceb9f.svg" alt="Instagram" height="64" width="64" ></a>
-<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/156588576-7f32336f-57ec-4158-887f-d4534aaa2778.svg" alt="Facebook" height="64" width="64" ></a>
-
------
-
-### Tools and Technologies
+### 🛠️ Tools and Technologies
 
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/156590065-fe5a489d-3b47-4728-b48e-c81c609c91f5.svg" alt="Python" height="64" width="64" ></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/156590129-73dc288f-1f38-49d2-9ec8-6b1007742b90.svg" alt="HTML 5" height="64" width="64" ></a>
@@ -29,7 +20,7 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project.
 
 -----
 
-### What I'm Learning
+### 📖 What I'm Learning
 
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/156591976-8bc16a2d-262b-401d-9cf2-8a7f301971a2.svg" alt="React JS" height="64" width="64" ></a>
 <a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/97799058/156592010-ba9fd3c4-8623-4891-8a9e-3736db1030bc.svg" alt="Express JS" height="64" width="64" ></a>
@@ -37,6 +28,25 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project.
 
 -----
 
-### GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord)](https://github.com/RosaleeKnight/github-readme-stats)
+### 👩‍💻 Connect with me
+
+<a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/156588447-3c52bef6-5bb2-4049-acea-e87c6ec16e50.svg" alt="LinkedIn" height="64" width="64" ></a>
+<a href="https://twitter.com/Rosalee_Knight_"><img src="https://user-images.githubusercontent.com/97799058/156588508-15354b55-c89f-4241-9b6b-11602002a8f3.svg" alt="Twitter" height="64" width="64" ></a>
+<a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/156588532-e4734eb0-8c8f-4534-bfca-98db6baceb9f.svg" alt="Instagram" height="64" width="64" ></a>
+<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/156588576-7f32336f-57ec-4158-887f-d4534aaa2778.svg" alt="Facebook" height="64" width="64" ></a>
+
+-----
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/RosaleeKnight/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/RosaleeKnight/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord" alt="Top Languages"/>
+</a>
+
+-----
+![](https://komarev.com/ghpvc/?username=RosaleeKnight)
+
 

@@ -9,7 +9,7 @@ I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project.
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/156590065-fe5a489d-3b47-4728-b48e-c81c609c91f5.svg" alt="Python" height="64" width="64" ></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/156590129-73dc288f-1f38-49d2-9ec8-6b1007742b90.svg" alt="HTML 5" height="64" width="64" ></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/156590163-b5980a66-34ee-4c3d-a2f2-b7d9a57f9b7a.svg" alt="CSS 3" height="64" width="64" ></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/156590196-f969cf9b-b2ff-48ab-9bcf-cf889a8975f3.svg" alt="Javascript" height="64" width="64" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/156590196-f969cf9b-b2ff-48ab-9bcf-cf889a8975f3.svg" alt="JavaScript" height="64" width="64" ></a>
 <a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/156590207-ce800c20-0f28-47c3-a246-dfceb6bca331.svg" alt="Jest" height="64" width="64" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/156590229-ce06fb6a-f2df-484c-ad81-e2ca4c80ea67.svg" alt="SASS" height="64" width="64" ></a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/156590256-0cb76dd6-b01d-4740-82fe-5b545e1a1ef4.svg" alt="Node JS" height="64" width="64" ></a>

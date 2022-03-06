@@ -1,6 +1,7 @@
 ### 👋 Welcome to my profile
 
 I'm new to IT and Web Design. I started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack.
+<p> You can see what I'm currently up to at https://github.com/RosaleeKnight/project-list </p>
 
 -----
 

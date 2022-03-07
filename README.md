@@ -52,6 +52,8 @@ I'm new to Web Design having started learning Jan 2022 with the Odin Project. I'
 <a href="https://twitter.com/Rosalee_Knight_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" ></a>
 <a href="https://www.instagram.com/rosalee_knight_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" ></a>
 <a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" ></a>
+<a href="https://stackoverflow.com/users/18393087/rosalee-knight/"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack OverFlow" ></a>
+<a href="https://leetcode.com/RosaleeKnight/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leet Code" ></a>
 
 -----
 ### 📊 GitHub Stats

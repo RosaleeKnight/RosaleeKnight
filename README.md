@@ -1,5 +1,5 @@
 ### 👋 Welcome to my profile
-I'm new to Web Design having started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack and agile development. My goal is to be a DevOps Engineer.
+I'm new Front End Developer having started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack and agile development to become a Full Stack Developer. My end goal is to be a DevOps Engineer.
 <p> You can see what I'm currently up to at https://github.com/RosaleeKnight/project-list </p>
 
 -----
@@ -15,6 +15,7 @@ I'm new to Web Design having started learning Jan 2022 with the Odin Project. I'
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNU BaSH" ></a>
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" ></a>
 <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" ></a>
+<a href="https://rog.asus.com/ca-en/"><img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="Asus Laptop" ></a>
 
 -----
 ### 🧰 I have previous experience with
@@ -25,6 +26,9 @@ I'm new to Web Design having started learning Jan 2022 with the Odin Project. I'
 <a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11" ></a>
 <a href="https://slack.com/"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" ></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams" ></a>
+<a href="https://www.office.com/"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" ></a>
+<a href="https://www.google.com/sheets/about/"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" alt="Google Sheets" ></a>
+
 
 -----
 ### 📖 I'm currently learning
@@ -38,12 +42,14 @@ I'm new to Web Design having started learning Jan 2022 with the Odin Project. I'
 <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" ></a>
 <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" ></a>
 <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django" ></a>
+<a href="https://pypi.org/"><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPi" ></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm" ></a>
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" ></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira" ></a>
 <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" ></a>
 <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" ></a>
 <a href="https://travis-ci.org/"><img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" alt="Travis CI" ></a>
+<a href="https://snyk.io/"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" ></a>
 <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus" ></a>
 
 -----

@@ -12,6 +12,7 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158237311-81990ff5-1f96-41b3-aa78-24467cc385c0.svg" alt="Visual Studio Code" ></a>
 <a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158236930-e613111c-0cc4-406d-b817-2eb02fb10527.svg" alt="Google Chrome" ></a>
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158236881-47797c2b-fd82-4f21-b8ce-63933871b125.svg" alt="Git" ></a>
+<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158291151-4e1da509-e4f7-4c2c-a3de-39fa1f1279eb.svg" alt="Markdown" ></a>
 <a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158237225-035b51d2-40c5-4ecf-a5bf-01331748faa5.svg" alt="Snyk" ></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158236918-ef546702-c09b-47b6-b5cc-04d8ee9a2e41.svg" alt="GNU BaSH" ></a>
 <a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/158237256-2bfe95f1-cb69-4995-bdfa-02fbe0e8efc7.svg" alt="Ubuntu" ></a>
@@ -20,19 +21,26 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 
 -----
 ### 🧰 I have previous experience with
+<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158286521-5d0b5dad-206d-4c36-bcc0-0da8b9067aa9.svg" alt="Shell Script" ></a>
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158237145-ccd16feb-fb36-412e-92d5-c9f8bfe6cd97.svg" alt="Python" ></a>
 <a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158237137-98ba4f15-2a05-4537-a023-af598a8d5063.svg" alt="PyPi" ></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158237125-e9f43212-a9ba-477a-a839-0586660d3e46.svg" alt="PyCharm" ></a>
+<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158289373-73a7f347-2121-4d5e-b9dd-173e3767cbab.svg" alt="Jupyter" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158237199-8fb09c97-45a5-49cb-bf81-d403a6d21168.svg" alt="SASS" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158236891-78826d7c-2864-46a6-aea5-a9cb0184ad14.svg" alt="GitHub Actions" ></a>
 <a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158236737-a4778065-9edc-4654-a88b-ac065766f88d.svg" alt="Circle CI" ></a>
+<a href="https://www.canva.com/"><img src="https://user-images.githubusercontent.com/97799058/158288312-7025e95e-91c3-4d9f-bf36-95e091ff9b05.svg" alt="Canva" ></a>
 <a href="https://www.vim.org/"><img src="https://user-images.githubusercontent.com/97799058/158237301-92cbdd15-7d2f-430b-a254-4e005920b4e9.svg" alt="Vim Editor" ></a>
+<a href="https://replit.com/"><img src="https://user-images.githubusercontent.com/97799058/158291521-34bfc2cb-cd0f-467b-abb4-cd1d2e75a10c.svg" alt="Replit" ></a>
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://user-images.githubusercontent.com/97799058/158237109-a982e409-feca-4a42-aedb-e3a726d9a2bc.svg" alt="Powershell" ></a>
 <a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://user-images.githubusercontent.com/97799058/158237319-946802b4-0d6e-4f30-af58-450348d96e77.svg" alt="Windows 11" ></a>
+<a href="https://www.apple.com/ca/macos/monterey/"><img src="https://user-images.githubusercontent.com/97799058/158292307-0b38744c-5079-4a52-b5c6-2ee1c01ce4a4.svg" alt="Mac OS" ></a>
+<a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158292318-535eda17-9b01-4103-85f8-3c632e5e8e53.svg" alt="Free BSD" ></a>
 <a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158237209-9134b7eb-b39b-4772-8daf-721835dd69eb.svg" alt="Slack" ></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158237050-681300ba-16c5-4605-a1ab-8c49ba8c648a.svg" alt="Microsoft Teams" ></a>
 <a href="https://www.office.com/"><img src="https://user-images.githubusercontent.com/97799058/158237038-60210838-cddd-404f-ad0e-6cee225f0a19.svg" alt="Microsoft Office" ></a>
 <a href="https://www.google.com/sheets/about/"><img src="https://user-images.githubusercontent.com/97799058/158236939-628de283-7e67-4d37-9b3f-0e85e46b5ff9.svg" alt="Google Sheets" ></a>
+<a href="https://www.salesforce.com/ca/"><img src="https://user-images.githubusercontent.com/97799058/158287895-ad404c7a-a395-43d8-b8df-34643ee0adeb.svg" alt="Salesforce" ></a>
 
 -----
 ### 📖 I'm currently learning

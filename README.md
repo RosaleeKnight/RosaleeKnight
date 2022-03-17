@@ -29,6 +29,7 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158237199-8fb09c97-45a5-49cb-bf81-d403a6d21168.svg" alt="SASS" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158236891-78826d7c-2864-46a6-aea5-a9cb0184ad14.svg" alt="GitHub Actions" ></a>
 <a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158236737-a4778065-9edc-4654-a88b-ac065766f88d.svg" alt="Circle CI" ></a>
+<a href="https://www.ansible.com/"><img src="https://user-images.githubusercontent.com/97799058/158508006-8ba6c570-bae6-45a6-8dd0-09e970806df1.svg" alt="Ansible" ></a>
 <a href="https://www.canva.com/"><img src="https://user-images.githubusercontent.com/97799058/158288312-7025e95e-91c3-4d9f-bf36-95e091ff9b05.svg" alt="Canva" ></a>
 <a href="https://www.vim.org/"><img src="https://user-images.githubusercontent.com/97799058/158237301-92cbdd15-7d2f-430b-a254-4e005920b4e9.svg" alt="Vim Editor" ></a>
 <a href="https://replit.com/"><img src="https://user-images.githubusercontent.com/97799058/158291521-34bfc2cb-cd0f-467b-abb4-cd1d2e75a10c.svg" alt="Replit" ></a>
@@ -36,6 +37,7 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://user-images.githubusercontent.com/97799058/158237319-946802b4-0d6e-4f30-af58-450348d96e77.svg" alt="Windows 11" ></a>
 <a href="https://www.apple.com/ca/macos/monterey/"><img src="https://user-images.githubusercontent.com/97799058/158292307-0b38744c-5079-4a52-b5c6-2ee1c01ce4a4.svg" alt="Mac OS" ></a>
 <a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158292318-535eda17-9b01-4103-85f8-3c632e5e8e53.svg" alt="Free BSD" ></a>
+<a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/158703099-21508594-2a09-4b05-9981-2b1103894831.svg" alt="Google Cloud Platform" ></a>
 <a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158237209-9134b7eb-b39b-4772-8daf-721835dd69eb.svg" alt="Slack" ></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158237050-681300ba-16c5-4605-a1ab-8c49ba8c648a.svg" alt="Microsoft Teams" ></a>
 <a href="https://www.office.com/"><img src="https://user-images.githubusercontent.com/97799058/158237038-60210838-cddd-404f-ad0e-6cee225f0a19.svg" alt="Microsoft Office" ></a>
@@ -50,10 +52,6 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 
 -----
 ### 📝 I'd like to learn in the future
-<a href="https://www.ruby-lang.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158237177-ffcd0156-8673-47c4-aceb-2879802cbe5c.svg" alt="Ruby" ></a>
-<a href="https://rubyonrails.org/"><img src="https://user-images.githubusercontent.com/97799058/158237187-2f10d4fc-bd74-4c64-8680-7dad0ef26e01.svg" alt="Ruby on Rails" ></a>
-<a href="https://www.heroku.com/"><img src="https://user-images.githubusercontent.com/97799058/158236950-d26174f2-aab3-4516-a173-07b3219104f9.svg" alt="Heroku" ></a>
-<a href="https://www.djangoproject.com/"><img src="https://user-images.githubusercontent.com/97799058/158236813-8112df7d-eeda-4945-ab43-380255b7aa4b.svg" alt="Django" ></a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/97799058/158236725-e7b92f14-b67b-473f-a883-904377e85abe.svg" alt="Bootstrap" ></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158237000-8e75ae75-faf1-4abc-8d7e-f5d545d2e976.svg" alt="Jira" ></a>
 <a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/97799058/158236827-39ed011c-afc8-4af2-8e99-3cf0005d587e.svg" alt="Docker" ></a>

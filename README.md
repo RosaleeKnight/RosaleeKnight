@@ -4,68 +4,70 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 
 -----
 ### 🛠️ Currently used tools and technologies
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158236954-a42f1155-7a76-4e66-9ec4-a11b08812866.svg" alt="HTML 5" ></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158236781-7996bc28-6291-46a4-ae93-3f62f42535a9.svg" alt="CSS 3" ></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158236984-04b67b9f-eaa6-4290-82f2-7299f545f1c7.svg" alt="JavaScript" ></a>
-<a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158236989-182dd29a-961c-4db0-b4d1-449520e7a0e2.svg" alt="Jest" ></a>
-<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158237094-49088d7c-ce5b-453a-bb13-f29e87112a0d.svg" alt="Node JS" ></a>
-<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158237311-81990ff5-1f96-41b3-aa78-24467cc385c0.svg" alt="Visual Studio Code" ></a>
-<a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158236930-e613111c-0cc4-406d-b817-2eb02fb10527.svg" alt="Google Chrome" ></a>
-<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158236881-47797c2b-fd82-4f21-b8ce-63933871b125.svg" alt="Git" ></a>
-<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158291151-4e1da509-e4f7-4c2c-a3de-39fa1f1279eb.svg" alt="Markdown" ></a>
-<a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158237225-035b51d2-40c5-4ecf-a5bf-01331748faa5.svg" alt="Snyk" ></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158236918-ef546702-c09b-47b6-b5cc-04d8ee9a2e41.svg" alt="GNU BaSH" ></a>
-<a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/158237256-2bfe95f1-cb69-4995-bdfa-02fbe0e8efc7.svg" alt="Ubuntu" ></a>
-<a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/97799058/158236792-5c2bc7df-e4b2-407d-a8f5-32e785013502.svg" alt="Discord" ></a>
-<a href="https://rog.asus.com/ca-en/"><img src="https://user-images.githubusercontent.com/97799058/158236703-2ae112fd-0661-44fb-89d6-1fe13af75f6e.svg" alt="Asus Laptop" ></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a>
+<a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
+<a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158913839-4cc74ed4-0a7f-4ed1-9bb9-68e88413c1e6.svg" alt="Node JS" ></a>
+<a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158913875-6606ea7f-d840-4ecd-b9e4-c9cf9b67dfd0.svg" alt="Visual Studio Code" ></a>
+<a href="https://www.vim.org/"><img src="https://user-images.githubusercontent.com/97799058/158920123-b8a0c13b-9365-4c8e-8325-cddc570ca53d.svg" alt="Vim Editor" ></a>
+<a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158914337-30e31e57-365c-46f4-bac0-6d52c4745e3a.svg" alt="Google Chrome" ></a>
+<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158914223-e2b77329-299d-4099-a955-3a33c5095e7f.svg" alt="Git" ></a>
+<a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
+<a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
+<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158913937-dc814512-03c6-4b49-838d-aee330501cbc.svg" alt="GNU BaSH" ></a>
+<a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/158913948-f65003a2-db05-4013-9ace-943fe5e8d637.svg" alt="Ubuntu" ></a>
+<a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/97799058/158914426-d3c26bfa-7b1b-4d01-8973-db5dd82ac162.svg" alt="Discord" ></a>
+<a href="https://rog.asus.com/ca-en/"><img src="https://user-images.githubusercontent.com/97799058/158913975-5ab1a0b1-9e36-4bcf-a0d9-4cd94c9eef7f.svg" alt="Asus Laptop" ></a>
 
 -----
 ### 🧰 I have previous experience with
-<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158286521-5d0b5dad-206d-4c36-bcc0-0da8b9067aa9.svg" alt="Shell Script" ></a>
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158237145-ccd16feb-fb36-412e-92d5-c9f8bfe6cd97.svg" alt="Python" ></a>
-<a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158237137-98ba4f15-2a05-4537-a023-af598a8d5063.svg" alt="PyPi" ></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158237125-e9f43212-a9ba-477a-a839-0586660d3e46.svg" alt="PyCharm" ></a>
-<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158289373-73a7f347-2121-4d5e-b9dd-173e3767cbab.svg" alt="Jupyter" ></a>
-<a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158237199-8fb09c97-45a5-49cb-bf81-d403a6d21168.svg" alt="SASS" ></a>
-<a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158236891-78826d7c-2864-46a6-aea5-a9cb0184ad14.svg" alt="GitHub Actions" ></a>
-<a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158236737-a4778065-9edc-4654-a88b-ac065766f88d.svg" alt="Circle CI" ></a>
-<a href="https://www.ansible.com/"><img src="https://user-images.githubusercontent.com/97799058/158508006-8ba6c570-bae6-45a6-8dd0-09e970806df1.svg" alt="Ansible" ></a>
-<a href="https://www.canva.com/"><img src="https://user-images.githubusercontent.com/97799058/158288312-7025e95e-91c3-4d9f-bf36-95e091ff9b05.svg" alt="Canva" ></a>
-<a href="https://www.vim.org/"><img src="https://user-images.githubusercontent.com/97799058/158237301-92cbdd15-7d2f-430b-a254-4e005920b4e9.svg" alt="Vim Editor" ></a>
-<a href="https://replit.com/"><img src="https://user-images.githubusercontent.com/97799058/158291521-34bfc2cb-cd0f-467b-abb4-cd1d2e75a10c.svg" alt="Replit" ></a>
-<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://user-images.githubusercontent.com/97799058/158237109-a982e409-feca-4a42-aedb-e3a726d9a2bc.svg" alt="Powershell" ></a>
-<a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://user-images.githubusercontent.com/97799058/158237319-946802b4-0d6e-4f30-af58-450348d96e77.svg" alt="Windows 11" ></a>
-<a href="https://www.apple.com/ca/macos/monterey/"><img src="https://user-images.githubusercontent.com/97799058/158292307-0b38744c-5079-4a52-b5c6-2ee1c01ce4a4.svg" alt="Mac OS" ></a>
-<a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158292318-535eda17-9b01-4103-85f8-3c632e5e8e53.svg" alt="Free BSD" ></a>
-<a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/158703099-21508594-2a09-4b05-9981-2b1103894831.svg" alt="Google Cloud Platform" ></a>
-<a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158237209-9134b7eb-b39b-4772-8daf-721835dd69eb.svg" alt="Slack" ></a>
-<a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158237050-681300ba-16c5-4605-a1ab-8c49ba8c648a.svg" alt="Microsoft Teams" ></a>
-<a href="https://www.office.com/"><img src="https://user-images.githubusercontent.com/97799058/158237038-60210838-cddd-404f-ad0e-6cee225f0a19.svg" alt="Microsoft Office" ></a>
-<a href="https://www.google.com/sheets/about/"><img src="https://user-images.githubusercontent.com/97799058/158236939-628de283-7e67-4d37-9b3f-0e85e46b5ff9.svg" alt="Google Sheets" ></a>
-<a href="https://www.salesforce.com/ca/"><img src="https://user-images.githubusercontent.com/97799058/158287895-ad404c7a-a395-43d8-b8df-34643ee0adeb.svg" alt="Salesforce" ></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158920012-9abd2af8-728a-4462-8876-2054bf02a02b.svg" alt="Shell Script" ></a>
+<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a>
+<a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
+<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158920056-6cc71ff7-1d94-4160-9c7e-0d8b3aef090c.svg" alt="Jupyter" ></a>
+<a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
+<a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>
+<a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158920097-655f2f40-b93a-4e5a-bc16-67fa42d8bb0b.svg" alt="Circle CI" ></a>
+<a href="https://www.ansible.com/"><img src="https://user-images.githubusercontent.com/97799058/158920107-966e85e2-d56c-465d-af99-4fc0a41c5178.svg" alt="Ansible" ></a>
+<a href="https://www.canva.com/"><img src="https://user-images.githubusercontent.com/97799058/158920117-272636b0-74a4-4ee8-9775-6a5dd80a9577.svg" alt="Canva" ></a>
+<a href="https://www.nano-editor.org/"><img src="https://user-images.githubusercontent.com/97799058/158924630-b66ab745-3e65-4f41-913c-bb80fb035c2b.svg" alt="GNU Nano" ></a>
+<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://user-images.githubusercontent.com/97799058/158920143-abd845aa-1aeb-4fd6-92dc-57c068b26c5d.svg" alt="Powershell" ></a>
+<a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://user-images.githubusercontent.com/97799058/158920157-6360bfbb-ccef-4930-b758-6f90d67ee776.svg" alt="Windows 11" ></a>
+<a href="https://www.apple.com/ca/macos/monterey/"><img src="https://user-images.githubusercontent.com/97799058/158920179-4667949d-6425-4e95-a449-7890b6f10fc5.svg" alt="Mac OS" ></a>
+<a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158920192-56ba4b3c-429a-45c5-bdda-fdd8c6830c0d.svg" alt="Free BSD" ></a>
+<a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/158920206-bf98847c-743e-496e-b347-1b3cc00b22a9.svg" alt="Google Cloud Platform" ></a>
+<a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158920219-20b2e645-13b7-4a17-9451-14c0369090ba.svg" alt="Slack" ></a>
+<a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158920232-0e4ea69e-1a1c-4d1e-94c5-784711d8a203.svg" alt="Microsoft Teams" ></a>
+<a href="https://www.office.com/"><img src="https://user-images.githubusercontent.com/97799058/158920244-79aa8dde-c9c9-4162-997d-0707e3beb912.svg" alt="Microsoft Office" ></a>
+<a href="https://www.google.com/sheets/about/"><img src="https://user-images.githubusercontent.com/97799058/158920269-66a877f6-3b8e-44f9-82f0-381d67ab541d.svg" alt="Google Sheets" ></a>
+<a href="https://www.salesforce.com/ca/"><img src="https://user-images.githubusercontent.com/97799058/158920311-e5f4601c-2940-4f62-aa62-793a54d327e3.svg" alt="Salesforce" ></a>
 
 -----
 ### 📖 I'm currently learning
-<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/158237160-c72c658e-497d-4845-a4b6-5688acf12e9b.svg" alt="React JS" ></a>
-<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/97799058/158236847-7ec4ad71-1911-40e3-ba8a-f554c9b83e8d.svg" alt="Express JS" ></a>
-<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/97799058/158237086-0505613c-3233-4839-8f02-5ba593ec14e5.svg" alt="Mongo DB" ></a>
+<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/158921762-a241277f-fda0-4ea0-844a-54f3c6f7ed4b.svg" alt="React JS" ></a>
+<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/97799058/158921781-04c58a8f-dcf3-4eab-8576-04ce83ad04a3.svg" alt="Express JS" ></a>
+<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/97799058/158921790-d3b52858-14a3-417d-95fa-fd9ec5d92bc2.svg" alt="Mongo DB" ></a>
 
 -----
 ### 📝 I'd like to learn in the future
-<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/97799058/158236725-e7b92f14-b67b-473f-a883-904377e85abe.svg" alt="Bootstrap" ></a>
-<a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158237000-8e75ae75-faf1-4abc-8d7e-f5d545d2e976.svg" alt="Jira" ></a>
-<a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/97799058/158236827-39ed011c-afc8-4af2-8e99-3cf0005d587e.svg" alt="Docker" ></a>
-<a href="https://kubernetes.io/"><img src="https://user-images.githubusercontent.com/97799058/158237009-68eeb200-2c1c-441e-b3db-83847514914a.svg" alt="Kubernetes" ></a>
-<a href="https://prometheus.io/"><img src="https://user-images.githubusercontent.com/97799058/158237119-f41d329c-39e8-486b-ac82-17e28204310a.svg" alt="Prometheus" ></a>
+<a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/97799058/158922554-e0d007aa-abea-4ad9-bdd2-1f97cfbb2754.svg" alt="Bootstrap" ></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158922566-18472ac9-8198-47e3-8647-444af5eb25ba.svg" alt="Jira" ></a>
+<a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/97799058/158922612-d2633d61-8c80-474e-bb77-4c5e085fb156.svg" alt="Docker" ></a>
+<a href="https://kubernetes.io/"><img src="https://user-images.githubusercontent.com/97799058/158922622-7d6dd76d-cc4d-49f6-bb26-115ca816c0f2.svg" alt="Kubernetes" ></a>
+<a href="https://prometheus.io/"><img src="https://user-images.githubusercontent.com/97799058/158922646-37c003ab-2c4c-4ac3-8153-75f312a391b5.svg" alt="Prometheus" ></a>
 
 -----
 ### 👩‍💻 Connect with me
-<a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158237028-04e25f3e-5c69-4110-8754-e92afaf74641.svg" alt="LinkedIn" ></a>
-<a href="https://twitter.com/Rosalee_Knight_"><img src="https://user-images.githubusercontent.com/97799058/158237242-1a0b8e4a-39f4-4736-86f3-856da9bbb084.svg" alt="Twitter" ></a>
-<a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/158236978-cd66ea76-4bea-4edf-a9ba-5739b61f5d9a.svg" alt="Instagram" ></a>
-<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/158236868-ac5cff99-3880-4d1f-97a7-f3f39cc814b4.svg" alt="Facebook" ></a>
-<a href="https://stackoverflow.com/users/18393087/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158237236-0f21a4e0-0e67-4ed8-bd89-94ca55c707d5.svg" alt="Stack OverFlow" ></a>
-<a href="https://leetcode.com/RosaleeKnight/"><img src="https://user-images.githubusercontent.com/97799058/158237326-34bf059e-1ff6-42a0-bcb5-699edf6af392.svg" alt="Leet Code" ></a>
+<a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923425-eb0110c3-c96c-4d57-93a2-fdb4b9821dad.svg" alt="LinkedIn" ></a>
+<a href="https://replit.com/@RosaleeKnight"><img src="https://user-images.githubusercontent.com/97799058/158920133-791d33b0-f6c2-40ce-af0f-1570cc3ea9cf.svg" alt="Replit" ></a>
+<a href="https://twitter.com/Rosalee_Knight_"><img src="https://user-images.githubusercontent.com/97799058/158923443-52a7d869-515a-455f-8485-0a1dcbbc4c5c.svg" alt="Twitter" ></a>
+<a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/158923481-e01321f4-3f0a-4406-9dea-49900905bda7.svg" alt="Instagram" ></a>
+<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/158923529-b61bc4b0-7816-418e-98d4-5811f3dde022.svg" alt="Facebook" ></a>
+<a href="https://stackoverflow.com/users/18393087/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923567-0a595c58-cc33-417f-8d97-ce2ca5032e3b.svg" alt="Stack OverFlow" ></a>
+<a href="https://leetcode.com/RosaleeKnight/"><img src="https://user-images.githubusercontent.com/97799058/158923615-a5f97664-b45c-486b-b266-8110f82d39bf.svg" alt="Leet Code" ></a>
 
 -----
 ### 📊 GitHub Stats

@@ -76,4 +76,5 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord" alt="Top Languages" /></a>
 
 -----
-![](https://komarev.com/ghpvc/?username=RosaleeKnight)
+
+[![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)

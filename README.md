@@ -1,6 +1,8 @@
 ### 👋 Welcome to my profile
 I'm new Front End Developer having started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack and agile development to become a Full Stack Developer. My end goal is to be a DevOps Engineer.
-<p> You can see what I'm currently up to at https://github.com/RosaleeKnight/project-list </p>
+
+[![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
+<a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159104879-181077b4-d142-4e8f-a5ff-ed2343e0e2e5.svg" alt="Repo called Project List" ></a>
 
 -----
 ### 🛠️ Currently used tools and technologies
@@ -77,4 +79,4 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 
 -----
 
-[![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
+

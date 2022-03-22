@@ -2,7 +2,7 @@
 I'm a Front End Developer and IT Technician. I'm currently learning the MERN Stack.
 
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
-<a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159104879-181077b4-d142-4e8f-a5ff-ed2343e0e2e5.svg" alt="Repo called Project List" ></a>
+<a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159589581-2bd9a2a7-6e46-464f-a0c1-19a3ffacd3bf.svg" alt="Repository called Project List" ></a>
 
 -----
 ### 🛠️ Currently used tools and technologies

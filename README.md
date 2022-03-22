@@ -1,5 +1,5 @@
 ### 👋 Welcome to my profile
-I'm new Front End Developer having started learning Jan 2022 with the Odin Project. I'm currently working several professional certificates as well as learning the MERN Stack and agile development to become a Full Stack Developer. My end goal is to be a DevOps Engineer.
+I'm a Front End Developer and IT Technician. I'm currently learning the MERN Stack.
 
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
 <a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159104879-181077b4-d142-4e8f-a5ff-ed2343e0e2e5.svg" alt="Repo called Project List" ></a>
@@ -17,7 +17,6 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158914223-e2b77329-299d-4099-a955-3a33c5095e7f.svg" alt="Git" ></a>
 <a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
 <a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
-<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158913937-dc814512-03c6-4b49-838d-aee330501cbc.svg" alt="GNU BaSH" ></a>
 <a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/158913948-f65003a2-db05-4013-9ace-943fe5e8d637.svg" alt="Ubuntu" ></a>
 <a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/97799058/158914426-d3c26bfa-7b1b-4d01-8973-db5dd82ac162.svg" alt="Discord" ></a>
@@ -30,6 +29,7 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
+<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
 <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158920056-6cc71ff7-1d94-4160-9c7e-0d8b3aef090c.svg" alt="Jupyter" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>
@@ -43,6 +43,7 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 <a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158920192-56ba4b3c-429a-45c5-bdda-fdd8c6830c0d.svg" alt="Free BSD" ></a>
 <a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/158920206-bf98847c-743e-496e-b347-1b3cc00b22a9.svg" alt="Google Cloud Platform" ></a>
 <a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158920219-20b2e645-13b7-4a17-9451-14c0369090ba.svg" alt="Slack" ></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158922566-18472ac9-8198-47e3-8647-444af5eb25ba.svg" alt="Jira" ></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158920232-0e4ea69e-1a1c-4d1e-94c5-784711d8a203.svg" alt="Microsoft Teams" ></a>
 <a href="https://www.office.com/"><img src="https://user-images.githubusercontent.com/97799058/158920244-79aa8dde-c9c9-4162-997d-0707e3beb912.svg" alt="Microsoft Office" ></a>
 <a href="https://www.google.com/sheets/about/"><img src="https://user-images.githubusercontent.com/97799058/158920269-66a877f6-3b8e-44f9-82f0-381d67ab541d.svg" alt="Google Sheets" ></a>
@@ -57,7 +58,6 @@ I'm new Front End Developer having started learning Jan 2022 with the Odin Proje
 -----
 ### 📝 I'd like to learn in the future
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/97799058/158922554-e0d007aa-abea-4ad9-bdd2-1f97cfbb2754.svg" alt="Bootstrap" ></a>
-<a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158922566-18472ac9-8198-47e3-8647-444af5eb25ba.svg" alt="Jira" ></a>
 <a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/97799058/158922612-d2633d61-8c80-474e-bb77-4c5e085fb156.svg" alt="Docker" ></a>
 <a href="https://kubernetes.io/"><img src="https://user-images.githubusercontent.com/97799058/158922622-7d6dd76d-cc4d-49f6-bb26-115ca816c0f2.svg" alt="Kubernetes" ></a>
 <a href="https://prometheus.io/"><img src="https://user-images.githubusercontent.com/97799058/158922646-37c003ab-2c4c-4ac3-8153-75f312a391b5.svg" alt="Prometheus" ></a>

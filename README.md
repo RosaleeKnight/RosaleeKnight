@@ -75,7 +75,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 -----
 ### 📊 GitHub Stats
 <a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord" alt="GitHub Stats" /> </a>
-<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord" alt="Top Languages" /></a>
+<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10" alt="Top Languages" /></a>
 
 -----
 

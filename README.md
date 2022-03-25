@@ -9,6 +9,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a>
+<a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/97799058/160049532-51a3c5f2-9de7-4258-ac8d-cd9ed53bc95d.svg" alt="TypeScript" ></a>
 <a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158913839-4cc74ed4-0a7f-4ed1-9bb9-68e88413c1e6.svg" alt="Node JS" ></a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158913875-6606ea7f-d840-4ecd-b9e4-c9cf9b67dfd0.svg" alt="Visual Studio Code" ></a>
@@ -16,6 +17,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158914337-30e31e57-365c-46f4-bac0-6d52c4745e3a.svg" alt="Google Chrome" ></a>
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158914223-e2b77329-299d-4099-a955-3a33c5095e7f.svg" alt="Git" ></a>
 <a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
+<a href="https://www.zenhub.com/"><img src="https://user-images.githubusercontent.com/97799058/160049150-54ff09e4-e4b6-412b-a066-b39c0377b3ed.svg" alt="ZenHub" ></a>
 <a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158913937-dc814512-03c6-4b49-838d-aee330501cbc.svg" alt="GNU BaSH" ></a>
 <a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/158913948-f65003a2-db05-4013-9ace-943fe5e8d637.svg" alt="Ubuntu" ></a>
@@ -31,6 +33,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
 <a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
 <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158920056-6cc71ff7-1d94-4160-9c7e-0d8b3aef090c.svg" alt="Jupyter" ></a>
+<a href="https://nixos.wiki/wiki/Nix_Expression_Language"><img src="https://user-images.githubusercontent.com/97799058/160051547-15d825e0-d7f6-43bf-88da-ef11c4a0ad27.svg" alt="Nix" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>
 <a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158920097-655f2f40-b93a-4e5a-bc16-67fa42d8bb0b.svg" alt="Circle CI" ></a>
@@ -42,6 +45,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.apple.com/ca/macos/monterey/"><img src="https://user-images.githubusercontent.com/97799058/158920179-4667949d-6425-4e95-a449-7890b6f10fc5.svg" alt="Mac OS" ></a>
 <a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158920192-56ba4b3c-429a-45c5-bdda-fdd8c6830c0d.svg" alt="Free BSD" ></a>
 <a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/158920206-bf98847c-743e-496e-b347-1b3cc00b22a9.svg" alt="Google Cloud Platform" ></a>
+<a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/97799058/160050143-28a7a3f4-d402-4ade-970d-4e5db3fc5e70.svg" alt="Amazon Cloud Services" ></a>
 <a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158920219-20b2e645-13b7-4a17-9451-14c0369090ba.svg" alt="Slack" ></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158922566-18472ac9-8198-47e3-8647-444af5eb25ba.svg" alt="Jira" ></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158920232-0e4ea69e-1a1c-4d1e-94c5-784711d8a203.svg" alt="Microsoft Teams" ></a>

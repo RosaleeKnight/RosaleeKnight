@@ -32,7 +32,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
 <a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
-<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158920056-6cc71ff7-1d94-4160-9c7e-0d8b3aef090c.svg" alt="Jupyter" ></a>
+<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter" ></a>
 <a href="https://nixos.wiki/wiki/Nix_Expression_Language"><img src="https://user-images.githubusercontent.com/97799058/160051547-15d825e0-d7f6-43bf-88da-ef11c4a0ad27.svg" alt="Nix" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>
@@ -44,7 +44,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.microsoft.com/en-ca/windows/windows-11"><img src="https://user-images.githubusercontent.com/97799058/158920157-6360bfbb-ccef-4930-b758-6f90d67ee776.svg" alt="Windows 11" ></a>
 <a href="https://www.apple.com/ca/macos/monterey/"><img src="https://user-images.githubusercontent.com/97799058/158920179-4667949d-6425-4e95-a449-7890b6f10fc5.svg" alt="Mac OS" ></a>
 <a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158920192-56ba4b3c-429a-45c5-bdda-fdd8c6830c0d.svg" alt="Free BSD" ></a>
-<a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/158920206-bf98847c-743e-496e-b347-1b3cc00b22a9.svg" alt="Google Cloud Platform" ></a>
+<a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/160221264-527b8f8d-4119-42a5-b04c-5d18554b9f00.svg" alt="Google Cloud Platform" ></a>
 <a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/97799058/160050143-28a7a3f4-d402-4ade-970d-4e5db3fc5e70.svg" alt="Amazon Cloud Services" ></a>
 <a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158920219-20b2e645-13b7-4a17-9451-14c0369090ba.svg" alt="Slack" ></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158922566-18472ac9-8198-47e3-8647-444af5eb25ba.svg" alt="Jira" ></a>
@@ -78,8 +78,8 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 
 -----
 ### 📊 GitHub Stats
-<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord" alt="GitHub Stats" /> </a>
-<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10" alt="Top Languages" /></a>
+<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" /> </a>
+<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10&hide=Jupyter Notebook" alt="Top Languages" /></a>
 
 -----
 

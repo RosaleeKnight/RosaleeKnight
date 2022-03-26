@@ -32,7 +32,7 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
 <a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
-<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter" ></a>
+<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter Notebook" ></a>
 <a href="https://nixos.wiki/wiki/Nix_Expression_Language"><img src="https://user-images.githubusercontent.com/97799058/160051547-15d825e0-d7f6-43bf-88da-ef11c4a0ad27.svg" alt="Nix" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>

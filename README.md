@@ -15,13 +15,14 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/158921762-a241277f-fda0-4ea0-844a-54f3c6f7ed4b.svg" alt="React JS" ></a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158913839-4cc74ed4-0a7f-4ed1-9bb9-68e88413c1e6.svg" alt="Node JS" ></a>
 <a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
+<a href="https://lgtm.com/"><img src="https://user-images.githubusercontent.com/97799058/160305686-7e3bfef2-a76c-430d-9842-ccdf796f8ae6.svg" alt="LGTM" ></a>
+<a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
+<a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
+<a href="https://www.zenhub.com/"><img src="https://user-images.githubusercontent.com/97799058/160049150-54ff09e4-e4b6-412b-a066-b39c0377b3ed.svg" alt="ZenHub" ></a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158913875-6606ea7f-d840-4ecd-b9e4-c9cf9b67dfd0.svg" alt="Visual Studio Code" ></a>
 <a href="https://www.vim.org/"><img src="https://user-images.githubusercontent.com/97799058/158920123-b8a0c13b-9365-4c8e-8325-cddc570ca53d.svg" alt="Vim Editor" ></a>
 <a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158914337-30e31e57-365c-46f4-bac0-6d52c4745e3a.svg" alt="Google Chrome" ></a>
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158914223-e2b77329-299d-4099-a955-3a33c5095e7f.svg" alt="Git" ></a>
-<a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
-<a href="https://www.zenhub.com/"><img src="https://user-images.githubusercontent.com/97799058/160049150-54ff09e4-e4b6-412b-a066-b39c0377b3ed.svg" alt="ZenHub" ></a>
-<a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158913937-dc814512-03c6-4b49-838d-aee330501cbc.svg" alt="GNU BaSH" ></a>
 <a href="https://ubuntu.com/"><img src="https://user-images.githubusercontent.com/97799058/158913948-f65003a2-db05-4013-9ace-943fe5e8d637.svg" alt="Ubuntu" ></a>
 <a href="https://discord.com/"><img src="https://user-images.githubusercontent.com/97799058/158914426-d3c26bfa-7b1b-4d01-8973-db5dd82ac162.svg" alt="Discord" ></a>
@@ -31,12 +32,15 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 ### 🧰 I have previous experience with
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a>
 <a href="https://nixos.wiki/wiki/Nix_Expression_Language"><img src="https://user-images.githubusercontent.com/97799058/160051547-15d825e0-d7f6-43bf-88da-ef11c4a0ad27.svg" alt="Nix" ></a>
+<a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"><img src="https://user-images.githubusercontent.com/97799058/160305363-1be7655e-401e-4eb9-8b5c-a94f8ad0c4cf.svg" alt="SQL" ></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158920012-9abd2af8-728a-4462-8876-2054bf02a02b.svg" alt="Shell Script" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
 <a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
 <a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
+<a href="https://www.npmjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160305971-26710dfc-0c36-4cce-94da-8bcf8d476f17.svg" alt="NPM" ></a>
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
 <a href="https://kaboomjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160222905-7cee5eb7-7c24-4e52-a3a4-30229c6ccd1c.svg" alt="Kaboom JS" ></a>
+<a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/97799058/160302588-7d3b2e8e-12e7-42f9-add6-4bba55ef0d79.svg" alt="PostgreSQL" ></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
 <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter Notebook" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>

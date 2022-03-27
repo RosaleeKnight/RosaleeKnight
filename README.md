@@ -29,16 +29,16 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 
 -----
 ### 🧰 I have previous experience with
-<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158920012-9abd2af8-728a-4462-8876-2054bf02a02b.svg" alt="Shell Script" ></a>
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a>
-<a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
-<a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
-<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
-<a href="https://kaboomjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160222905-7cee5eb7-7c24-4e52-a3a4-30229c6ccd1c.svg" alt="Kaboom JS" ></a>
-<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter Notebook" ></a>
 <a href="https://nixos.wiki/wiki/Nix_Expression_Language"><img src="https://user-images.githubusercontent.com/97799058/160051547-15d825e0-d7f6-43bf-88da-ef11c4a0ad27.svg" alt="Nix" ></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158920012-9abd2af8-728a-4462-8876-2054bf02a02b.svg" alt="Shell Script" ></a>
 <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a>
+<a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
+<a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
+<a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
+<a href="https://kaboomjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160222905-7cee5eb7-7c24-4e52-a3a4-30229c6ccd1c.svg" alt="Kaboom JS" ></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://user-images.githubusercontent.com/97799058/158920043-6055952f-bcc6-41e6-a929-7cd4a1d0ff10.svg" alt="PyCharm" ></a>
+<a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter Notebook" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>
 <a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158920097-655f2f40-b93a-4e5a-bc16-67fa42d8bb0b.svg" alt="Circle CI" ></a>
 <a href="https://www.ansible.com/"><img src="https://user-images.githubusercontent.com/97799058/158920107-966e85e2-d56c-465d-af99-4fc0a41c5178.svg" alt="Ansible" ></a>

@@ -10,8 +10,11 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a>
 <a href="https://www.typescriptlang.org/"><img src="https://user-images.githubusercontent.com/97799058/160049532-51a3c5f2-9de7-4258-ac8d-cd9ed53bc95d.svg" alt="TypeScript" ></a>
-<a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
+<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/97799058/158921790-d3b52858-14a3-417d-95fa-fd9ec5d92bc2.svg" alt="Mongo DB" ></a>
+<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/97799058/158921781-04c58a8f-dcf3-4eab-8576-04ce83ad04a3.svg" alt="Express JS" ></a>
+<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/158921762-a241277f-fda0-4ea0-844a-54f3c6f7ed4b.svg" alt="React JS" ></a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158913839-4cc74ed4-0a7f-4ed1-9bb9-68e88413c1e6.svg" alt="Node JS" ></a>
+<a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158913875-6606ea7f-d840-4ecd-b9e4-c9cf9b67dfd0.svg" alt="Visual Studio Code" ></a>
 <a href="https://www.vim.org/"><img src="https://user-images.githubusercontent.com/97799058/158920123-b8a0c13b-9365-4c8e-8325-cddc570ca53d.svg" alt="Vim Editor" ></a>
 <a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158914337-30e31e57-365c-46f4-bac0-6d52c4745e3a.svg" alt="Google Chrome" ></a>
@@ -56,9 +59,9 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 
 -----
 ### 📖 I'm currently learning
-<a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/158921762-a241277f-fda0-4ea0-844a-54f3c6f7ed4b.svg" alt="React JS" ></a>
-<a href="https://expressjs.com/"><img src="https://user-images.githubusercontent.com/97799058/158921781-04c58a8f-dcf3-4eab-8576-04ce83ad04a3.svg" alt="Express JS" ></a>
-<a href="https://www.mongodb.com/"><img src="https://user-images.githubusercontent.com/97799058/158921790-d3b52858-14a3-417d-95fa-fd9ec5d92bc2.svg" alt="Mongo DB" ></a>
+
+
+
 
 -----
 ### 📝 I'd like to learn in the future

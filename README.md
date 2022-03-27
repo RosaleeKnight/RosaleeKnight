@@ -63,9 +63,9 @@ I'm a Front End Developer and IT Technician. I'm currently learning the MERN Sta
 
 -----
 ### 📖 I'm currently learning
-
-
-
+<a href="https://react-redux.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160306675-b522e951-8807-4f80-82c9-83590ad50e04.svg" alt="Redux JS" ></a>
+<a href="https://eslint.org/"><img src="https://user-images.githubusercontent.com/97799058/160306323-c71adc83-f407-42c6-8e6c-1f09cfc2ec4e.svg" alt="ES Lint" ></a>
+<a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/97799058/160306461-fe92e5f2-4f49-4970-8a20-e7ee4b2f6079.svg" alt="Tailwind CSS" ></a>
 
 -----
 ### 📝 I'd like to learn in the future

@@ -1,5 +1,5 @@
 ### 👋 Welcome to my profile
-I'm a Front End Developer and IT Technician. I'm currently learning the MERN Stack.
+I'm a Software Engineer with an interest in game design, Full Stack Developer that uses JavaScript, Data Analysis of many years and a IT Technician. I'm currently learning more tools to get into DevOps.
 
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
 <a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159589581-2bd9a2a7-6e46-464f-a0c1-19a3ffacd3bf.svg" alt="Repository called Project List" ></a>

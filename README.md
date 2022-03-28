@@ -15,6 +15,8 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://reactjs.org/"><img src="https://user-images.githubusercontent.com/97799058/158921762-a241277f-fda0-4ea0-844a-54f3c6f7ed4b.svg" alt="React JS" ></a>
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158913839-4cc74ed4-0a7f-4ed1-9bb9-68e88413c1e6.svg" alt="Node JS" ></a>
 <a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
+<a href="https://reactnative.dev/"><img src="https://user-images.githubusercontent.com/97799058/160423928-7fd6d767-ad48-45c6-9b7b-1ae13b75e604.svg" alt="React Native" ></a>
+<a href="https://www.electronjs.org/"><img src="https://user-images.githubusercontent.com/97799058/160424758-ff1e77a5-ebba-44e6-a082-79d298616dc2.svg" alt="Electron" ></a>
 <a href="https://lgtm.com/"><img src="https://user-images.githubusercontent.com/97799058/160305686-7e3bfef2-a76c-430d-9842-ccdf796f8ae6.svg" alt="LGTM" ></a>
 <a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
 <a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
@@ -54,18 +56,21 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://www.freebsd.org/"><img src="https://user-images.githubusercontent.com/97799058/158920192-56ba4b3c-429a-45c5-bdda-fdd8c6830c0d.svg" alt="Free BSD" ></a>
 <a href="https://cloud.google.com/"><img src="https://user-images.githubusercontent.com/97799058/160221264-527b8f8d-4119-42a5-b04c-5d18554b9f00.svg" alt="Google Cloud Platform" ></a>
 <a href="https://aws.amazon.com/"><img src="https://user-images.githubusercontent.com/97799058/160050143-28a7a3f4-d402-4ade-970d-4e5db3fc5e70.svg" alt="Amazon Cloud Services" ></a>
+<a href="https://www.salesforce.com/ca/"><img src="https://user-images.githubusercontent.com/97799058/158920311-e5f4601c-2940-4f62-aa62-793a54d327e3.svg" alt="Salesforce" ></a>
+<a href="https://www.heroku.com/"><img src="https://user-images.githubusercontent.com/97799058/160408298-6b14c677-5b8e-46ea-8c82-ef472efcdaca.svg" alt="Heroku" ></a>
 <a href="https://slack.com/"><img src="https://user-images.githubusercontent.com/97799058/158920219-20b2e645-13b7-4a17-9451-14c0369090ba.svg" alt="Slack" ></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://user-images.githubusercontent.com/97799058/158922566-18472ac9-8198-47e3-8647-444af5eb25ba.svg" alt="Jira" ></a>
 <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"><img src="https://user-images.githubusercontent.com/97799058/158920232-0e4ea69e-1a1c-4d1e-94c5-784711d8a203.svg" alt="Microsoft Teams" ></a>
 <a href="https://www.office.com/"><img src="https://user-images.githubusercontent.com/97799058/158920244-79aa8dde-c9c9-4162-997d-0707e3beb912.svg" alt="Microsoft Office" ></a>
 <a href="https://www.google.com/sheets/about/"><img src="https://user-images.githubusercontent.com/97799058/158920269-66a877f6-3b8e-44f9-82f0-381d67ab541d.svg" alt="Google Sheets" ></a>
-<a href="https://www.salesforce.com/ca/"><img src="https://user-images.githubusercontent.com/97799058/158920311-e5f4601c-2940-4f62-aa62-793a54d327e3.svg" alt="Salesforce" ></a>
+
 
 -----
 ### 📖 I'm currently learning
 <a href="https://react-redux.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160306675-b522e951-8807-4f80-82c9-83590ad50e04.svg" alt="Redux JS" ></a>
 <a href="https://eslint.org/"><img src="https://user-images.githubusercontent.com/97799058/160306323-c71adc83-f407-42c6-8e6c-1f09cfc2ec4e.svg" alt="ES Lint" ></a>
 <a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/97799058/160306461-fe92e5f2-4f49-4970-8a20-e7ee4b2f6079.svg" alt="Tailwind CSS" ></a>
+<a href="https://nextjs.org/"><img src="https://user-images.githubusercontent.com/97799058/160309920-7ca26437-f3f9-4e3a-a14c-03bd0e3c6a10.svg" alt="Next JS" ></a>
 
 -----
 ### 📝 I'd like to learn in the future
@@ -90,5 +95,4 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10&hide=Jupyter Notebook" alt="Top Languages" /></a>
 
 -----
-
 

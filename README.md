@@ -74,10 +74,22 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 
 -----
 ### 📝 I'd like to learn in the future
+<a href="https://pylint.org/"><img src="https://user-images.githubusercontent.com/97799058/160310448-5b03064f-2827-4448-8bbb-cb32877a8056.svg" alt="Pylint" ></a>
+<a href="https://wiki.python.org/moin/PyUnit"><img src="https://user-images.githubusercontent.com/97799058/160310587-b4282c7f-f5f9-4a1c-8432-45179845ff6a.svg" alt="PyUnit" ></a>
 <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/97799058/158922554-e0d007aa-abea-4ad9-bdd2-1f97cfbb2754.svg" alt="Bootstrap" ></a>
+<a href="https://www.ruby-lang.org/en/"><img src="https://user-images.githubusercontent.com/97799058/160311023-27d00938-588d-4565-b471-441120f7bd85.svg" alt="Ruby" ></a>
+<a href="https://rubyonrails.org/"><img src="https://user-images.githubusercontent.com/97799058/160311174-b3be65cd-091d-4180-a2f1-04cdfc8187fd.svg" alt="Ruby on Rails" ></a>
 <a href="https://www.docker.com/"><img src="https://user-images.githubusercontent.com/97799058/158922612-d2633d61-8c80-474e-bb77-4c5e085fb156.svg" alt="Docker" ></a>
 <a href="https://kubernetes.io/"><img src="https://user-images.githubusercontent.com/97799058/158922622-7d6dd76d-cc4d-49f6-bb26-115ca816c0f2.svg" alt="Kubernetes" ></a>
 <a href="https://prometheus.io/"><img src="https://user-images.githubusercontent.com/97799058/158922646-37c003ab-2c4c-4ac3-8153-75f312a391b5.svg" alt="Prometheus" ></a>
+<a href="https://www.nginx.com/"><img src="https://user-images.githubusercontent.com/97799058/160409297-dcf8f390-207e-41ec-8ddf-534b706eb955.svg" alt="Nginx" ></a>
+<a href="https://www.terraform.io/"><img src="https://user-images.githubusercontent.com/97799058/160409747-cb7313e5-c445-41e5-8e16-022172fde38f.svg" alt="Terraform" ></a>
+<a href="https://istio.io/"><img src="https://user-images.githubusercontent.com/97799058/160410664-89c23493-9ac3-4cbc-8ec6-a3ab4bba2a0f.svg" alt="Istio" ></a>
+<a href="https://www.jaegertracing.io/"><img src="https://user-images.githubusercontent.com/97799058/160411442-3e2a622c-6288-41db-b74b-bf89c51333c4.svg" alt="Jaeger" ></a>
+<a href="https://www.elastic.co/elastic-stack/"><img src="https://user-images.githubusercontent.com/97799058/160413144-db4bcf73-76e3-4c91-884d-979d3427d2ac.svg" alt="Elastic Stack" ></a>
+<a href="https://www.rabbitmq.com/"><img src="https://user-images.githubusercontent.com/97799058/160414995-bc76d0bf-eac5-42f0-b2c4-3debc518681c.svg" alt="RabbitMG" ></a>
+<a href="https://www.apollographql.com/"><img src="https://user-images.githubusercontent.com/97799058/160421459-907383a3-e970-47ee-bb7a-bc0d262481a7.svg" alt="Apollo" ></a>
+<a href="https://webpack.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160422916-35b0e8d2-45e1-4cbd-8c67-ac04a11453c3.svg" alt="Webpack" ></a>
 
 -----
 ### 👩‍💻 Connect with me

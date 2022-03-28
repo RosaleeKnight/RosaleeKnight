@@ -99,6 +99,7 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/158923481-e01321f4-3f0a-4406-9dea-49900905bda7.svg" alt="Instagram" ></a>
 <a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/158923529-b61bc4b0-7816-418e-98d4-5811f3dde022.svg" alt="Facebook" ></a>
 <a href="https://stackoverflow.com/users/18393087/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923567-0a595c58-cc33-417f-8d97-ce2ca5032e3b.svg" alt="Stack OverFlow" ></a>
+<a href="https://stackshare.io/rosaleeknight"><img src="https://user-images.githubusercontent.com/97799058/160437142-9f26d779-f7aa-4591-befb-839426a55e5f.svg" alt="StackShare" ></a>
 <a href="https://leetcode.com/RosaleeKnight/"><img src="https://user-images.githubusercontent.com/97799058/158923615-a5f97664-b45c-486b-b266-8110f82d39bf.svg" alt="Leet Code" ></a>
 
 -----

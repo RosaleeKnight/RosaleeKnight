@@ -40,6 +40,7 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
 <a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
 <a href="https://www.npmjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160305971-26710dfc-0c36-4cce-94da-8bcf8d476f17.svg" alt="NPM" ></a>
+<a href="https://esbuild.github.io/"><img src="https://user-images.githubusercontent.com/97799058/162574906-dc1a1542-d1af-46b2-bfc7-d80006566881.svg" alt="esbuild" ></a>
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
 <a href="https://kaboomjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160222905-7cee5eb7-7c24-4e52-a3a4-30229c6ccd1c.svg" alt="Kaboom JS" ></a>
 <a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/97799058/160302588-7d3b2e8e-12e7-42f9-add6-4bba55ef0d79.svg" alt="PostgreSQL" ></a>
@@ -52,9 +53,9 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://www.ansible.com/"><img src="https://user-images.githubusercontent.com/97799058/158920107-966e85e2-d56c-465d-af99-4fc0a41c5178.svg" alt="Ansible" ></a>
 <a href="https://www.terraform.io/"><img src="https://user-images.githubusercontent.com/97799058/160409747-cb7313e5-c445-41e5-8e16-022172fde38f.svg" alt="Terraform" ></a>
 <a href="https://prometheus.io/"><img src="https://user-images.githubusercontent.com/97799058/158922646-37c003ab-2c4c-4ac3-8153-75f312a391b5.svg" alt="Prometheus" ></a>
+<a href="https://www.elastic.co/elastic-stack/"><img src="https://user-images.githubusercontent.com/97799058/160413144-db4bcf73-76e3-4c91-884d-979d3427d2ac.svg" alt="Elastic Stack" ></a>
 <a href="https://www.jaegertracing.io/"><img src="https://user-images.githubusercontent.com/97799058/160411442-3e2a622c-6288-41db-b74b-bf89c51333c4.svg" alt="Jaeger" ></a>
 <a href="https://istio.io/"><img src="https://user-images.githubusercontent.com/97799058/160410664-89c23493-9ac3-4cbc-8ec6-a3ab4bba2a0f.svg" alt="Istio" ></a>
-<a href="https://www.elastic.co/elastic-stack/"><img src="https://user-images.githubusercontent.com/97799058/160413144-db4bcf73-76e3-4c91-884d-979d3427d2ac.svg" alt="Elastic Stack" ></a>
 <a href="https://www.rabbitmq.com/"><img src="https://user-images.githubusercontent.com/97799058/160414995-bc76d0bf-eac5-42f0-b2c4-3debc518681c.svg" alt="RabbitMG" ></a>
 <a href="https://www.canva.com/"><img src="https://user-images.githubusercontent.com/97799058/158920117-272636b0-74a4-4ee8-9775-6a5dd80a9577.svg" alt="Canva" ></a>
 <a href="https://www.nano-editor.org/"><img src="https://user-images.githubusercontent.com/97799058/158924630-b66ab745-3e65-4f41-913c-bb80fb035c2b.svg" alt="GNU Nano" ></a>
@@ -79,6 +80,8 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/97799058/160306461-fe92e5f2-4f49-4970-8a20-e7ee4b2f6079.svg" alt="Tailwind CSS" ></a>
 <a href="https://nextjs.org/"><img src="https://user-images.githubusercontent.com/97799058/160309920-7ca26437-f3f9-4e3a-a14c-03bd0e3c6a10.svg" alt="Next JS" ></a>
 <a href="https://www.apollographql.com/"><img src="https://user-images.githubusercontent.com/97799058/160421459-907383a3-e970-47ee-bb7a-bc0d262481a7.svg" alt="Apollo" ></a>
+<a href="https://graphql.org/"><img src="https://user-images.githubusercontent.com/97799058/162575773-20ffe840-15ee-4ea5-a4c1-e13719729978.svg" alt="GraphQL" ></a>
+<a href="https://vmc.vmware.com/"><img src="https://user-images.githubusercontent.com/97799058/162576457-2427fe18-4f04-42fd-b96b-627e84a3b735.svg" alt="VMware Cloud" ></a>
 
 -----
 ### 📝 I'd like to learn in the future

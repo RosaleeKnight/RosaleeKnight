@@ -81,6 +81,7 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/97799058/160306461-fe92e5f2-4f49-4970-8a20-e7ee4b2f6079.svg" alt="Tailwind CSS" ></a>
 <a href="https://www.apollographql.com/"><img src="https://user-images.githubusercontent.com/97799058/160421459-907383a3-e970-47ee-bb7a-bc0d262481a7.svg" alt="Apollo" ></a>
 <a href="https://graphql.org/"><img src="https://user-images.githubusercontent.com/97799058/162575773-20ffe840-15ee-4ea5-a4c1-e13719729978.svg" alt="GraphQL" ></a>
+<a href="https://webpack.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160422916-35b0e8d2-45e1-4cbd-8c67-ac04a11453c3.svg" alt="Webpack" ></a>
 
 -----
 ### 📝 I'd like to learn in the future
@@ -90,7 +91,6 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://www.ruby-lang.org/en/"><img src="https://user-images.githubusercontent.com/97799058/160311023-27d00938-588d-4565-b471-441120f7bd85.svg" alt="Ruby" ></a>
 <a href="https://rubyonrails.org/"><img src="https://user-images.githubusercontent.com/97799058/160311174-b3be65cd-091d-4180-a2f1-04cdfc8187fd.svg" alt="Ruby on Rails" ></a>
 <a href="https://www.nginx.com/"><img src="https://user-images.githubusercontent.com/97799058/160409297-dcf8f390-207e-41ec-8ddf-534b706eb955.svg" alt="Nginx" ></a>
-<a href="https://webpack.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160422916-35b0e8d2-45e1-4cbd-8c67-ac04a11453c3.svg" alt="Webpack" ></a>
 
 -----
 ### 👩‍💻 Connect with me:

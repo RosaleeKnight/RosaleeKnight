@@ -15,6 +15,7 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://nodejs.org/en/"><img src="https://user-images.githubusercontent.com/97799058/158913839-4cc74ed4-0a7f-4ed1-9bb9-68e88413c1e6.svg" alt="Node JS" ></a>
 <a href="https://www.npmjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160305971-26710dfc-0c36-4cce-94da-8bcf8d476f17.svg" alt="NPM" ></a>
 <a href="https://snyk.io/"><img src="https://user-images.githubusercontent.com/97799058/158913919-7be4f3ef-3ded-4ac9-af69-0b4641a4136f.svg" alt="Snyk" ></a>
+<a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
 <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/97799058/158913875-6606ea7f-d840-4ecd-b9e4-c9cf9b67dfd0.svg" alt="Visual Studio Code" ></a>
 <a href="https://www.google.ca/intl/en_ca/chrome/"><img src="https://user-images.githubusercontent.com/97799058/158914337-30e31e57-365c-46f4-bac0-6d52c4745e3a.svg" alt="Google Chrome" ></a>
 <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/97799058/158914223-e2b77329-299d-4099-a955-3a33c5095e7f.svg" alt="Git" ></a>
@@ -32,11 +33,13 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://www.markdownguide.org/"><img src="https://user-images.githubusercontent.com/97799058/158913911-0f0adbd2-81e1-4c9c-9e89-cab158d00687.svg" alt="Markdown" ></a>
 <a href="https://pypi.org/"><img src="https://user-images.githubusercontent.com/97799058/158920038-59f7fcde-9eba-4846-a05d-85280b03cbbd.svg" alt="PyPi" ></a>
 <a href="https://esbuild.github.io/"><img src="https://user-images.githubusercontent.com/97799058/162574906-dc1a1542-d1af-46b2-bfc7-d80006566881.svg" alt="esbuild" ></a>
+<a href="https://webpack.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160422916-35b0e8d2-45e1-4cbd-8c67-ac04a11453c3.svg" alt="Webpack" ></a>
 <a href="https://jestjs.io/"><img src="https://user-images.githubusercontent.com/97799058/158913834-ca70e7e4-4ac6-44f5-8bb0-d9bdab573418.svg" alt="Jest" ></a>
 <a href="https://lgtm.com/"><img src="https://user-images.githubusercontent.com/97799058/160305686-7e3bfef2-a76c-430d-9842-ccdf796f8ae6.svg" alt="LGTM" ></a>
 <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a>
 <a href="https://kaboomjs.com/"><img src="https://user-images.githubusercontent.com/97799058/160222905-7cee5eb7-7c24-4e52-a3a4-30229c6ccd1c.svg" alt="Kaboom JS" ></a>
 <a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/97799058/160302588-7d3b2e8e-12e7-42f9-add6-4bba55ef0d79.svg" alt="PostgreSQL" ></a>
+<a href="https://docs.microsoft.com/en-us/sql/ssms/"><img src="https://user-images.githubusercontent.com/97799058/166933997-ab3004fc-4d7f-49ab-9f22-bfb0663bca7c.svg" alt="Microsoft SQL Sever" ></a>
 <a href="https://reactnative.dev/"><img src="https://user-images.githubusercontent.com/97799058/160423928-7fd6d767-ad48-45c6-9b7b-1ae13b75e604.svg" alt="React Native" ></a>
 <a href="https://www.electronjs.org/"><img src="https://user-images.githubusercontent.com/97799058/160424758-ff1e77a5-ebba-44e6-a082-79d298616dc2.svg" alt="Electron" ></a>
 <a href="https://react-redux.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160306675-b522e951-8807-4f80-82c9-83590ad50e04.svg" alt="Redux JS" ></a>
@@ -49,7 +52,8 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://kubernetes.io/"><img src="https://user-images.githubusercontent.com/97799058/158922622-7d6dd76d-cc4d-49f6-bb26-115ca816c0f2.svg" alt="Kubernetes" ></a>
 <a href="https://github.com/features/actions"><img src="https://user-images.githubusercontent.com/97799058/158920082-a710a7a4-9ef6-46a7-8864-1ce291c548ea.svg" alt="GitHub Actions" ></a>
 <a href="https://circleci.com/"><img src="https://user-images.githubusercontent.com/97799058/158920097-655f2f40-b93a-4e5a-bc16-67fa42d8bb0b.svg" alt="Circle CI" ></a>
-<a href="https://webapp.io/"><img src="https://user-images.githubusercontent.com/97799058/158924210-d7ba06cf-d022-4e46-b0c1-79a9b92692ac.svg" alt="Webapp.io" ></a>
+<a href="https://www.jenkins.io/"><img src="https://user-images.githubusercontent.com/97799058/166934853-9d019021-c35d-4dcb-a1d2-3ae7316ca0d1.svg" alt="Jenkins" ></a>
+<a href="https://gradle.org/"><img src="https://user-images.githubusercontent.com/97799058/166935872-ae7718db-5526-4e19-af66-37f29856df21.svg" alt="Gradle" ></a>
 <a href="https://www.zenhub.com/"><img src="https://user-images.githubusercontent.com/97799058/160049150-54ff09e4-e4b6-412b-a066-b39c0377b3ed.svg" alt="ZenHub" ></a>
 <a href="https://www.ansible.com/"><img src="https://user-images.githubusercontent.com/97799058/158920107-966e85e2-d56c-465d-af99-4fc0a41c5178.svg" alt="Ansible" ></a>
 <a href="https://www.terraform.io/"><img src="https://user-images.githubusercontent.com/97799058/160409747-cb7313e5-c445-41e5-8e16-022172fde38f.svg" alt="Terraform" ></a>
@@ -81,7 +85,6 @@ I'm a Software Engineer with an interest in game design, Full Stack Developer th
 <a href="https://tailwindcss.com/"><img src="https://user-images.githubusercontent.com/97799058/160306461-fe92e5f2-4f49-4970-8a20-e7ee4b2f6079.svg" alt="Tailwind CSS" ></a>
 <a href="https://www.apollographql.com/"><img src="https://user-images.githubusercontent.com/97799058/160421459-907383a3-e970-47ee-bb7a-bc0d262481a7.svg" alt="Apollo" ></a>
 <a href="https://graphql.org/"><img src="https://user-images.githubusercontent.com/97799058/162575773-20ffe840-15ee-4ea5-a4c1-e13719729978.svg" alt="GraphQL" ></a>
-<a href="https://webpack.js.org/"><img src="https://user-images.githubusercontent.com/97799058/160422916-35b0e8d2-45e1-4cbd-8c67-ac04a11453c3.svg" alt="Webpack" ></a>
 
 -----
 ### 📝 I'd like to learn in the future

@@ -102,9 +102,7 @@ I'm a Full Stack Developer that uses JavaScript and the MERN Stack. I'm currentl
 ### 👩‍💻 Connect with me:
 <a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923425-eb0110c3-c96c-4d57-93a2-fdb4b9821dad.svg" alt="LinkedIn" ></a>
 <a href="https://replit.com/@RosaleeKnight"><img src="https://user-images.githubusercontent.com/97799058/158920133-791d33b0-f6c2-40ce-af0f-1570cc3ea9cf.svg" alt="Replit" ></a>
-<a href="https://twitter.com/Rosalee_Knight_"><img src="https://user-images.githubusercontent.com/97799058/158923443-52a7d869-515a-455f-8485-0a1dcbbc4c5c.svg" alt="Twitter" ></a>
 <a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/158923481-e01321f4-3f0a-4406-9dea-49900905bda7.svg" alt="Instagram" ></a>
-<a href="https://www.facebook.com/rosalee.knight.9/"><img src="https://user-images.githubusercontent.com/97799058/158923529-b61bc4b0-7816-418e-98d4-5811f3dde022.svg" alt="Facebook" ></a>
 <a href="https://stackoverflow.com/users/18393087/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923567-0a595c58-cc33-417f-8d97-ce2ca5032e3b.svg" alt="Stack OverFlow" ></a>
 <a href="https://stackshare.io/rosaleeknight"><img src="https://user-images.githubusercontent.com/97799058/160437142-9f26d779-f7aa-4591-befb-839426a55e5f.svg" alt="StackShare" ></a>
 <a href="https://leetcode.com/RosaleeKnight/"><img src="https://user-images.githubusercontent.com/97799058/158923615-a5f97664-b45c-486b-b266-8110f82d39bf.svg" alt="Leet Code" ></a>

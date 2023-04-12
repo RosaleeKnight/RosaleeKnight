@@ -103,9 +103,6 @@ JavaScript Developer using the MERN Stack. I'm currently trying out different to
 <a href="https://www.linkedin.com/in/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923425-eb0110c3-c96c-4d57-93a2-fdb4b9821dad.svg" alt="LinkedIn" ></a>
 <a href="https://replit.com/@RosaleeKnight"><img src="https://user-images.githubusercontent.com/97799058/158920133-791d33b0-f6c2-40ce-af0f-1570cc3ea9cf.svg" alt="Replit" ></a>
 <a href="https://www.instagram.com/rosalee_knight_/"><img src="https://user-images.githubusercontent.com/97799058/158923481-e01321f4-3f0a-4406-9dea-49900905bda7.svg" alt="Instagram" ></a>
-<a href="https://stackoverflow.com/users/18393087/rosalee-knight/"><img src="https://user-images.githubusercontent.com/97799058/158923567-0a595c58-cc33-417f-8d97-ce2ca5032e3b.svg" alt="Stack OverFlow" ></a>
-<a href="https://stackshare.io/rosaleeknight"><img src="https://user-images.githubusercontent.com/97799058/160437142-9f26d779-f7aa-4591-befb-839426a55e5f.svg" alt="StackShare" ></a>
-<a href="https://leetcode.com/RosaleeKnight/"><img src="https://user-images.githubusercontent.com/97799058/158923615-a5f97664-b45c-486b-b266-8110f82d39bf.svg" alt="Leet Code" ></a>
 
 -----
 ### 📊 GitHub Stats
@@ -113,4 +110,3 @@ JavaScript Developer using the MERN Stack. I'm currently trying out different to
 <a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" /></a>
 
 -----
-

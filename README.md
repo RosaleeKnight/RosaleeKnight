@@ -80,7 +80,7 @@ Project Management: <a href="https://www.teamwork.com/"> Teamwork, </a> <a href=
 
 Customer Relationship Management: <a href="https://www.salesforce.com/ca/"> Salesforce </a>  
 
-Chat Based Collaboration: <a href="https://slack.com/"> Slack, </a> <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"> Microsoft Team, </a> <a href="https://www.zoom.us/"> Zoom </a>
+Chat Based Collaboration: <a href="https://slack.com/"> Slack, </a> <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"> Microsoft Teams, </a> <a href="https://www.zoom.us/"> Zoom </a>
 
 Document Editor: <a href="https://docs.google.com/">  Google Docs, </a> <a href="https://www.libreoffice.org/"> LibreOffice, </a> <a href="https://www.microsoft.com/en-ww/microsoft-365/word"> Microsoft Word </a>
 

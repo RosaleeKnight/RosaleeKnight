@@ -1,14 +1,14 @@
 ### 👋 Welcome to my profile
-I'm an IT Technician with experience in JavaScript development using the MERN Stack and an interest in DevSecOps.
+I'm an IT Help Desk Technician with experience in JavaScript development using the MERN Stack and an interest in DevSecOps.
 
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
 <a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159589581-2bd9a2a7-6e46-464f-a0c1-19a3ffacd3bf.svg" alt="Repository called Project List" ></a>
 
 -----
 ### 🛠️ Tools and Technologies
-Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly, </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript, </a> <a href="https://www.python.org/"> Python, </a> <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL, </a> <a href="https://www.typescriptlang.org/"> TypeScript, </a> <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a>  
+Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly, </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript, </a> <a href="https://www.python.org/"> Python, </a> <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL, </a> <a href="https://www.typescriptlang.org/"> TypeScript, </a> <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a>  
 
-Markup Languages: <a href="https://html.spec.whatwg.org/multipage/"> HTML 5, </a> <a href="https://www.markdownguide.org/"> Markdown </a> <a href="https://www.w3schools.com/xml/xml_whatis.asp"> XML, </a>
+Markup Languages: <a href="https://html.spec.whatwg.org/multipage/"> HTML 5, </a> <a href="https://www.markdownguide.org/"> Markdown, </a> <a href="https://www.w3schools.com/xml/xml_whatis.asp"> XML </a>
 
 Serialization: <a href="https://www.json.org/json-en.html"> JSON, </a> <a href="https://yaml.org/"> YAML </a> 
 
@@ -30,7 +30,7 @@ Package Mangers: <a href="https://www.npmjs.com/"> NPM, </a> <a href="https://py
 
 Testing Frameworks: <a href="https://jestjs.io/"> Jest, </a> <a href="https://wiki.python.org/moin/PyUnit"> PyUnit </a> 
 
-Application Security Platform: <a href="https://lgtm.com/"> LGTM </a>, <a href="https://snyk.io/"> SNYK </a>  
+Application Security Platform: <a href="https://lgtm.com/"> LGTM, </a> <a href="https://snyk.io/"> SNYK </a>  
 
 Version Control: <a href="https://git-scm.com/"> Git </a> 
 
@@ -38,7 +38,7 @@ Version Control System: <a href="https://github.com/"> GitHub </a>
 
 Command-Line: <a href="https://www.gnu.org/software/bash/"> GNU Bash, </a> <a href="https://docs.microsoft.com/en-us/powershell/"> PowerShell </a> 
 
-Integrated Development Environment (IDE): <a href="https://www.jetbrains.com/pycharm/"> Pycharm, </a> <a href="https://replit.com/"> Replit, </a> 
+Integrated Development Environment (IDE): <a href="https://www.jetbrains.com/pycharm/"> Pycharm, </a> <a href="https://replit.com/"> Replit </a> 
 
 Text Editor: <a href="https://www.nano-editor.org/"> GNU Nano, </a> <a href="https://www.vim.org/"> VIM, </a> <a href="https://code.visualstudio.com/"> Visual Studio Code </a> 
 
@@ -84,7 +84,7 @@ Document Editor: <a href="https://docs.google.com/">  Google Docs, </a> <a href=
 
 Spreadsheet Editor: <a href="https://www.google.com/sheets/about/"> Google Sheets, </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> Microsoft Excel </a>  
 
-Cloud Providers: <a href="https://aws.amazon.com/"> Amazon Web Services </a> <a href="https://cloud.google.com/"> Google Cloud Platform, </a> 
+Cloud Providers: <a href="https://aws.amazon.com/"> Amazon Web Services, </a> <a href="https://cloud.google.com/"> Google Cloud Platform </a> 
 
 VoIP Software:<a href="https://discord.com/"> Discord </a> 
 

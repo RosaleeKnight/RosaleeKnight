@@ -28,7 +28,7 @@ Cross-platform: <a href="https://reactnative.dev/"> React Native, </a> <a href="
 
 Python Libraries: <a href="https://www.pygame.org/"> Pygame, </a> <a href="https://pandas.pydata.org/"> Pandas </a> 
 
-Package Mangers: <a href="https://www.npmjs.com/"> NPM, </a> <a href="https://pypi.org/"> PYPI </a> 
+Package Mangers: <a href="https://www.npmjs.com/"> NPM, </a> <a href="https://pypi.org/"> PyPi </a> 
 
 Testing Frameworks: <a href="https://jestjs.io/"> Jest, </a> <a href="https://wiki.python.org/moin/PyUnit"> PyUnit </a> 
 

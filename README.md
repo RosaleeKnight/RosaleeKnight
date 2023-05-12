@@ -8,15 +8,13 @@ I'm an IT Technician with experience in JavaScript development using the MERN St
 ### 🛠️ Tools and Technologies
 Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly, </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript, </a> <a href="https://www.python.org/"> Python, </a> <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL, </a> <a href="https://www.typescriptlang.org/"> TypeScript, </a> <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a>  
 
-Data Query Language: <a href="https://graphql.org/"> GraphQL </a> 
+Markup Languages: <a href="https://html.spec.whatwg.org/multipage/"> HTML 5, </a> <a href="https://www.markdownguide.org/"> Markdown </a> <a href="https://www.w3schools.com/xml/xml_whatis.asp"> XML, </a>
 
-Markup Languages: <a href="https://html.spec.whatwg.org/multipage/"> HTML 5, </a> <a href="https://www.markdownguide.org/"> Markdown </a> 
-
-Serialization Languages: <a href="https://www.json.org/json-en.html"> JSON, </a> <a href="https://www.w3schools.com/xml/xml_whatis.asp"> XML, </a> <a href="https://yaml.org/"> YAML </a> 
+Serialization: <a href="https://www.json.org/json-en.html"> JSON, </a> <a href="https://yaml.org/"> YAML </a> 
 
 Styling: <a href="https://getbootstrap.com/"> Bootstrap, </a> <a href="https://www.w3.org/Style/CSS/"> CSS3, </a> <a href="https://sass-lang.com/"> SASS, </a> <a href="https://tailwindcss.com/"> Tailwind CSS </a> 
 
-JavaScript Framework: <a href="https://jquery.com/"> jQuery, </a> <a href="https://expressjs.com/"> Express.js, </a>  <a href="https://nextjs.org/"> Next.js, </a>
+JavaScript Framework: <a href="https://expressjs.com/"> Express.js, </a>  <a href="https://jquery.com/"> jQuery, </a>  <a href="https://nextjs.org/"> Next.js </a>
 
 JavaScript Runtime Environment: <a href="https://nodejs.org/en/"> Node.js </a>
 
@@ -24,9 +22,9 @@ JavaScript Libraries: <a href="https://kaboomjs.com/"> Kaboom.js, </a>  <a href=
 
 JavaScript Bundlers: <a href="https://esbuild.github.io/"> esbuild, </a> <a href="https://webpack.js.org/"> webpack </a>
 
-Cross-platform: <a href="https://reactnative.dev/"> React Native, </a> <a href="https://www.electronjs.org/"> Electron.js </a> 
+Cross-platform: <a href="https://www.electronjs.org/"> Electron.js, </a> <a href="https://reactnative.dev/"> React Native </a> 
 
-Python Libraries: <a href="https://www.pygame.org/"> Pygame, </a> <a href="https://pandas.pydata.org/"> Pandas </a> 
+Python Libraries: <a href="https://pandas.pydata.org/"> Pandas, </a>  <a href="https://www.pygame.org/"> Pygame </a> 
 
 Package Mangers: <a href="https://www.npmjs.com/"> NPM, </a> <a href="https://pypi.org/"> PyPi </a> 
 
@@ -80,13 +78,13 @@ Project Management: <a href="https://www.teamwork.com/"> Teamwork, </a> <a href=
 
 Customer Relationship Management: <a href="https://www.salesforce.com/ca/"> Salesforce </a>  
 
-Chat Based Collaboration: <a href="https://slack.com/"> Slack, </a> <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"> Microsoft Teams, </a> <a href="https://www.zoom.us/"> Zoom </a>
+Chat Based Collaboration: <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software"> Microsoft Teams, </a> <a href="https://slack.com/"> Slack, </a> <a href="https://www.zoom.us/"> Zoom </a>
 
 Document Editor: <a href="https://docs.google.com/">  Google Docs, </a> <a href="https://www.libreoffice.org/"> LibreOffice, </a> <a href="https://www.microsoft.com/en-ww/microsoft-365/word"> Microsoft Word </a>
 
 Spreadsheet Editor: <a href="https://www.google.com/sheets/about/"> Google Sheets, </a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel"> Microsoft Excel </a>  
 
-Cloud Providers: <a href="https://cloud.google.com/"> Google Cloud Platform, </a> <a href="https://aws.amazon.com/"> Amazon Web Services </a> 
+Cloud Providers: <a href="https://aws.amazon.com/"> Amazon Web Services </a> <a href="https://cloud.google.com/"> Google Cloud Platform, </a> 
 
 VoIP Software:<a href="https://discord.com/"> Discord </a> 
 
@@ -94,7 +92,7 @@ Directory Service: <a href="https://learn.microsoft.com/en-us/windows-server/ide
 
 Web Browsers: <a href="https://brave.com/"> Brave, </a>  <a href="https://www.google.ca/intl/en_ca/chrome/"> Chrome, </a> <a href="https://www.mozilla.org/en-CA/firefox/"> Firefox, </a> <a href="https://www.microsoft.com/en-us/edge"> Microsoft Edge, </a> <a href="https://www.apple.com/ca/safari/"> Safari, </a> <a href="https://www.torproject.org/"> Tor </a>
 
-Operating Systems: <a href="https://www.microsoft.com/en-ca/windows/windows-11"> Windows, </a> <a href="https://www.apple.com/ca/macos/monterey/"> MacOS, </a> <a href="https://www.freebsd.org/"> Free BSD, </a> <a href="https://www.linux.org/"> Linux, </a> <a href="https://www.android.com/intl/en_ca/ Android,"> <a href="https://www.apple.com/ca/ios/ios-16/"> iOS </a>
+Operating Systems: <a href="https://www.android.com/intl/en_ca/"> Android, </a> <a href="https://www.freebsd.org/"> Free BSD, </a> <a href="https://www.apple.com/ca/ios/ios-16/"> iOS </a>  <a href="https://www.linux.org/"> Linux, </a> <a href="https://www.apple.com/ca/macos/monterey/"> MacOS, </a> <a href="https://www.microsoft.com/en-ca/windows/windows-11"> Windows, </a> 
 
 Linux Distros: <a href="https://www.kali.org/"> Kali Linux, </a> <a href="https://remnux.org/"> REMnux, </a> <a href="https://tails.boum.org/"> Tails, </a> <a href="https://ubuntu.com/"> Ubuntu </a> 
 
@@ -106,7 +104,7 @@ Intrusion Detection System: <a href="https://www.ossec.net/"> OSSEC, </a> <a hre
 
 Password Auditing: <a href="https://www.openwall.com/john/"> John the Ripper </a>
 
-Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix, </a> <a href="https://portswigger.net/burp"> Burp Suite, </a> <a href="https://cirt.net/Nikto2"> Nikto, </a> <a href="https://www.tenable.com/products/nessus/nessus-professional"> Nessus Professional, </a> <a href="https://owasp.org/www-project-zap/"> ZAP </a>
+Web Vulnerability: <a href="https://www.acunetix.com/"> Acunetix, </a> <a href="https://portswigger.net/burp"> Burp Suite, </a> <a href="https://www.tenable.com/products/nessus/nessus-professional"> Nessus Professional, </a> <a href="https://cirt.net/Nikto2"> Nikto, </a>  <a href="https://owasp.org/www-project-zap/"> ZAP </a>
 
 Fingerprinting and Forensics Tool: <a href="https://lcamtuf.coredump.cx/p0f3/"> p0f </a>
 

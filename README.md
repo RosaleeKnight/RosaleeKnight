@@ -16,11 +16,11 @@ Serialization Languages: <a href="https://www.json.org/json-en.html"> JSON, </a>
 
 Styling: <a href="https://getbootstrap.com/"> Bootstrap, </a> <a href="https://www.w3.org/Style/CSS/"> CSS3, </a> <a href="https://sass-lang.com/"> SASS, </a> <a href="https://tailwindcss.com/"> Tailwind CSS </a> 
 
-JavaScript Framework: <a href="https://jquery.com/"> jQuery, </a> <a href="https://expressjs.com/"> Express.js, </a>  
+JavaScript Framework: <a href="https://jquery.com/"> jQuery, </a> <a href="https://expressjs.com/"> Express.js, </a>  <a href="https://nextjs.org/"> Next.js, </a>
 
 JavaScript Runtime Environment: <a href="https://nodejs.org/en/"> Node.js </a>
 
-JavaScript Libraries: <a href="https://www.apollographql.com/"> Apollo GraphQL, </a> <a href="https://kaboomjs.com/"> Kaboom.js, </a> <a href="https://nextjs.org/"> Next.js, </a> <a href="https://reactjs.org/"> React.js, </a> <a href="https://react-redux.js.org/"> Redux.js </a> 
+JavaScript Libraries: <a href="https://kaboomjs.com/"> Kaboom.js, </a>  <a href="https://reactjs.org/"> React.js, </a> <a href="https://react-redux.js.org/"> Redux.js </a> 
 
 JavaScript Bundlers: <a href="https://esbuild.github.io/"> esbuild, </a> <a href="https://webpack.js.org/"> webpack </a>
 

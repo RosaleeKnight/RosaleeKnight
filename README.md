@@ -40,9 +40,9 @@ Version Control System: <a href="https://github.com/"> GitHub </a>
 
 Command-Line: <a href="https://www.gnu.org/software/bash/"> GNU Bash, </a> <a href="https://docs.microsoft.com/en-us/powershell/"> PowerShell </a> 
 
-Integrated Development Environment (IDE): <a href="https://www.jetbrains.com/pycharm/"> Pycharm, </a> <a href="https://replit.com/"> Replit, </a> <a href="https://code.visualstudio.com/"> Virtual Studio Code </a> 
+Integrated Development Environment (IDE): <a href="https://www.jetbrains.com/pycharm/"> Pycharm, </a> <a href="https://replit.com/"> Replit, </a> 
 
-Text Editor: <a href="https://www.vim.org/"> VIM, </a> <a href="https://www.nano-editor.org/"> GNU Nano </a> 
+Text Editor: <a href="https://www.nano-editor.org/"> GNU Nano, </a> <a href="https://www.vim.org/"> VIM, </a> <a href="https://code.visualstudio.com/"> Visual Studio Code </a> 
 
 Interactive Computing Platform: <a href="https://jupyter.org/"> Jupyter Notebook </a> 
 

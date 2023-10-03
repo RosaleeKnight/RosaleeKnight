@@ -6,5 +6,5 @@ I'm an IT Help Desk Technician with experience in JavaScript development using t
 
 -----
 ### 📊 GitHub Stats
-<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true&hide=stars,contribs&hide_rank=true&include_all_commits=true" alt="GitHub Stats" /> </a>
+<a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true&hide=stars,contribs&include_all_commits=true&rank_icon=github" alt="GitHub Stats" /> </a>
 <a href="https://github.com/RosaleeKnight/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Top Languages" /></a>

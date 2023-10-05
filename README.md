@@ -1,5 +1,5 @@
 ### 👋 Welcome to my profile
-I'm an IT Help Desk Technician with experience in JavaScript development using the MERN Stack and an interest in DevSecOps. Currently working on getting my A+
+I'm an IT Help Desk Technician with experience in JavaScript development using the MERN Stack and an interest in DevSecOps.
 
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
 <a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159589581-2bd9a2a7-6e46-464f-a0c1-19a3ffacd3bf.svg" alt="Repository called Project List" ></a>

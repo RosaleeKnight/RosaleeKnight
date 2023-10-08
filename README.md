@@ -7,6 +7,8 @@ I'm an IT Help Desk Technician with experience in JavaScript development using t
 ----
 ### 🛠️ Tech Stack
 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" > <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" > <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" > <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" >
+
 <details>
 <summary>Detailed Technology List (click me to toggle 👀)</summary>
 <p>Programing Languages: <a href="https://developer.arm.com/documentation/dui0473/c/writing-arm-assembly-language"> Assembly, </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> JavaScript, </a> <a href="https://www.python.org/"> Python, </a> <a href="https://www.ibm.com/docs/en/db2/10.5?topic=fundamentals-sql"> SQL, </a> <a href="https://www.typescriptlang.org/"> TypeScript, </a> <a href="https://nixos.wiki/wiki/Nix_Expression_Language"> Nix </a></p>

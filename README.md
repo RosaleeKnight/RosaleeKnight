@@ -4,7 +4,8 @@ I'm an IT Help Desk Technician with experience in JavaScript development using t
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
 <a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159589581-2bd9a2a7-6e46-464f-a0c1-19a3ffacd3bf.svg" alt="Repository called Project List" ></a>
 
-----
+<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" ></h2>
+
 ### 🛠️ Tech Stack
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" > <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" > <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" > <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" >
@@ -68,8 +69,8 @@ I'm an IT Help Desk Technician with experience in JavaScript development using t
 <p>Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng, </a> <a href="https://www.metasploit.com/"> Metasploit Framework, </a> <a href="https://nmap.org/"> Nmap, </a> <a href="https://www.openvas.org/"> OpenVAS, </a> <a href="https://www.shodan.io/"> Shodan, </a> <a href="https://sqlmap.org/"> Sqlmap, </a> <a href="https://www.wireshark.org/"> Wireshark </a></p>
 </details>
 
+<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" ></h2>
 
------
 ### 📊 GitHub Stats
  <p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5&rank=S,A,B,C" alt="Github Trophy" /></p>
 <details>

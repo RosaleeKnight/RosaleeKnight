@@ -11,5 +11,5 @@ I'm an IT Help Desk Technician with experience in JavaScript development using t
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Most used languages" /></p>
  <p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true&hide=stars,contribs&include_all_commits=true&rank_icon=github" alt="Github Stats" /></p>
  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=nord" alt="Stat Streak" /></p>
- <p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5&rank=S,A,B" alt="Github Trophy" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5&rank=S,A,B,C" alt="Github Trophy" /></p>
 </details>

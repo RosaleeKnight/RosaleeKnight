@@ -43,7 +43,7 @@ I'm an IT Help Desk Technician with experience in JavaScript development using t
 <p>Distributed Tracing Tools: <a href="https://www.jaegertracing.io/"> Jaeger </a></p>
 <p>Service Mesh: <a href="https://istio.io/"> Istio </a></p> 
 <p>Message-Broker: <a href="https://www.rabbitmq.com/"> RabbitMQ </a></p> 
-<p>Issue Tracking: <a href="https://www.atlassian.com/software/jira"> Jira, </a> <a href="https://www.servicenow.com/"> ServiceNow </a> <a href="https://www.spiceworks.com/free-help-desk-software/"> Spiceworks </a></p> 
+<p>Issue Tracking: <a href="https://www.atlassian.com/software/jira"> Jira, </a> <a href="https://www.servicenow.com/"> ServiceNow, </a> <a href="https://www.spiceworks.com/free-help-desk-software/"> Spiceworks </a></p> 
 <p>Web Server: <a href="https://www.nginx.com/"> Nginx </a></p> 
 <p>Virtualization: <a href="https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/"> Hyper-V, </a> <a href="https://vmc.vmware.com/"> VMware </a></p> 
 <p>Project Management: <a href="https://www.teamwork.com/"> Teamwork, </a> <a href="https://www.zenhub.com/"> ZenHub </a></p> 

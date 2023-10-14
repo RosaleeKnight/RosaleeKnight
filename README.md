@@ -1,11 +1,15 @@
-![RosaleeKnight](https://socialify.git.ci/RosaleeKnight/RosaleeKnight/image?font=Source%20Code%20Pro&name=1&pattern=Circuit%20Board&theme=Dark)
+<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/d1397fe6-99fa-4913-b2c4-159e3180131b" style="max-width:100" alt="Banner" >
+
+<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
+
+
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/RosaleeKnight.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/RosaleeKnight)
 <a href="https://github.com/RosaleeKnight/project-list"><img src="https://user-images.githubusercontent.com/97799058/159589581-2bd9a2a7-6e46-464f-a0c1-19a3ffacd3bf.svg" alt="Repository called Project List" ></a>
 
 ### 👋 Welcome to my profile
 I'm an part time cybersecurity student (2 years) with 6 years experience in IT Help Desk and 2 years experience in Software Development.
 <p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5&rank=S,A" alt="Github Trophy" /></p> 
-<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" ></h2>
+
 
 ### 🛠️ Tech Stack
 
@@ -70,7 +74,7 @@ I'm an part time cybersecurity student (2 years) with 6 years experience in IT H
 <p>Penetration Testing: <a href="https://www.aircrack-ng.org/"> Aircrack-ng, </a> <a href="https://www.metasploit.com/"> Metasploit Framework, </a> <a href="https://nmap.org/"> Nmap, </a> <a href="https://www.openvas.org/"> OpenVAS, </a> <a href="https://www.shodan.io/"> Shodan, </a> <a href="https://sqlmap.org/"> Sqlmap, </a> <a href="https://www.wireshark.org/"> Wireshark </a></p>
 </details>
 
-<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" ></h2>
+<img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 ### 📊 GitHub Stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=nord" alt="Stat Streak" /></p>

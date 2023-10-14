@@ -39,7 +39,9 @@
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5&rank=S,A" alt="Github Trophy" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=nord" alt="Stat Streak" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true&hide=stars,contribs&include_all_commits=true&rank_icon=github" alt="Github Stats" /></p> 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=compact&theme=nord&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Most used languages" /></p>
+<div align="center">
+  <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Github Stats" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=donut&theme=nord&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Most used languages" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=nord" alt="Stat Streak" /></p>
+</div>

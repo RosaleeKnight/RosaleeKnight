@@ -11,7 +11,7 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <h3 align="center"> I'm a part time cybersecurity student (full time help desk) with 2 years experience in cybersecurity, 2 years in software development, and 6 years in IT. Professionally I first started in end user security education and am trying to move into SOC Analyst role. My first introduction to security was DevSecOps learning SNYK as a Software Developer. I've been passionate about cybersecurity every since. </h3>
+  <h3 align="center"> I'm a part time cybersecurity student (full time help desk) with 2 years experience in cybersecurity, 2 years in software development, and 6 years in IT. Professionally I first started in end user security education and am trying to move into a SOC Analyst role. My first introduction to security was DevSecOps learning SNYK as a Software Developer. I've been passionate about cybersecurity every since. </h3>
   <img src="https://komarev.com/ghpvc/?username=RosaleeKnight&base=1000&style=for-the-badge">
 </div>
 

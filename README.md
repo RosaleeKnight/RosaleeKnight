@@ -29,7 +29,11 @@
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" > <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" > <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" > <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" > <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" >
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,linux,github,visualstudio" />
+  </a>
+</p>
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
@@ -40,8 +44,8 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=nord&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=nord&count_private=true&include_all_commits=true" alt="Github Stats" />
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=donut&theme=nord&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Most used languages" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=nord" alt="Stat Streak" /></p>
+  <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=tokyonight&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Github Stats" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=donut&theme=tokyonight&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Most used languages" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=tokyonight" alt="Stat Streak" /></p>
 </div>

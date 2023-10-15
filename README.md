@@ -24,16 +24,14 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <h1 align="center"> My Tech Stack </h1>
+  <h1 align="center"> My Skills </h1>
 </div>
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs,linux,github,visualstudio" />
-  </a>
-</p>
+<div align="center">
+  <h3 align="center"> Security Information Event Management (SIEM), Intrusion Detection and Prevention (IDP), Incident Response (IR), Endpoint Detection and Response (EDR), Identity and Access Management (IAM), Security Tool Configuration and Maintenance, Security Policy Development and Implementation, Encryption and Data Protection, Network Security, Cloud Security, Compliance and Regulatory Frameworks, Security Architecture and Design, Risk Assessment and Mitigation, Cross-Functional Collaboration, Vulnerability Scanning, Penetration Testing, Programming </h3>
+</div>  
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 

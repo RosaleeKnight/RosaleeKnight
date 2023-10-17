@@ -43,6 +43,5 @@
 
 <div align="center">
   <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=tokyonight" alt="Stat Streak" /></p>
-  <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars,contribs" alt="Github Stats" /><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RosaleeKnight&layout=compact&theme=tokyonight&langs_count=6&hide=jupyter%20notebook,html,css,markdown&size_weight=0.5&count_weight=0.5&card_width=320" /></p>
-  <p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=tokyonight&margin-w=5&margin-h=5&rank=S,A,B&row=1&column=4" alt="Github Trophy" /></p>
+  <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars,contribs" alt="Github Stats" /></p>
 </div>

@@ -42,8 +42,8 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=tokyonight&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Github Stats" />
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=donut&theme=tokyonight&langs_count=10&hide=jupyter%20notebook,html,css,markdown" alt="Most used languages" /></p>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=RosaleeKnight&theme=tokyonight&margin-w=5&margin-h=5&rank=S,A,B&row=2&column=4" alt="Github Trophy" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&hide=stars,contribs" alt="Github Stats" />
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosaleeKnight&layout=donut&theme=tokyonight&langs_count=10&hide=jupyter%20notebook,html,css,markdown&size_weight=0.5&count_weight=0.5" alt="Most used languages" /></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=tokyonight" alt="Stat Streak" /></p>
 </div>

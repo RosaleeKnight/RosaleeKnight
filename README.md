@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3 align="center"> Security Information Event Management (SIEM), Intrusion Detection and Prevention (IDP), Incident Response (IR), Endpoint Detection and Response (EDR), Identity and Access Management (IAM), Security Tool Configuration and Maintenance, Security Policy Development and Implementation, Encryption and Data Protection, Network Security, Cloud Security, Compliance and Regulatory Frameworks, Security Architecture and Design, Risk Assessment and Mitigation, Cross-Functional Collaboration, Vulnerability Scanning, Penetration Testing, Programming </h3> 
-  <a href="https://tryhackme.com/p/RosaleeKnight"><img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/ca8143d9-9721-4a39-9a68-655c0c3f4b9c" alt="Try Hack Me Stats" ></a>
+  <a href="https://tryhackme.com/p/RosaleeKnight"><img src="https://user-images.githubusercontent.com/97799058/277393263-ca8143d9-9721-4a39-9a68-655c0c3f4b9c.png" alt="Try Hack Me Stats" ></a>
 </div>  
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
@@ -46,3 +46,5 @@
   <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=tokyonight" alt="Stat Streak" /></p>
   <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars,contribs" alt="Github Stats" /></p>
 </div>
+
+![tryhackme stats](https://raw.githubusercontent.com/RosaleeKnight/RosaleeKnight/master/assets/thm_propic.png)

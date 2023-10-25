@@ -46,3 +46,5 @@
   <p><img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RosaleeKnight&theme=tokyonight" alt="Stat Streak" /></p>
   <p><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RosaleeKnight&show_icons=true&theme=tokyonight&count_private=true&show=prs_merged,prs_merged_percentage&hide=stars,contribs" alt="Github Stats" /></p>
 </div>
+
+![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)

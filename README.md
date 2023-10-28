@@ -30,8 +30,8 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <h3 align="center"> Security Information Event Management (SIEM), Intrusion Detection and Prevention (IDP), Incident Response (IR), Endpoint Detection and Response (EDR), Identity and Access Management (IAM), Security Tool Configuration and Maintenance, Security Policy Development and Implementation, Encryption and Data Protection, Network Security, Cloud Security, Compliance and Regulatory Frameworks, Security Architecture and Design, Risk Assessment and Mitigation, Cross-Functional Collaboration, Vulnerability Scanning, Penetration Testing, Programming </h3> 
-  <a href="http://tryhackme.com/p/RosaleeKnight"><img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/e8ce0763-264f-4a85-89ee-2caf4aecc9c4" alt="Try Hack Me Stats" cache-control:no-cache ></a>
+  <h3 align="center"> Security Information Event Management (SIEM), Intrusion Detection and Prevention (IDP), Incident Response (IR), Endpoint Detection and Response (EDR), Identity and Access Management (IAM), Security Tool Configuration and Maintenance, Security Policy Development and Implementation, Encryption and Data Protection, Network Security, Cloud Security, Compliance and Regulatory Frameworks, Security Architecture and Design, Risk Assessment and Mitigation, Cross-Functional Collaboration, Vulnerability Assessment and Penetration Testing (VAPT), Programming </h3> 
+  <a href="http://tryhackme.com/p/RosaleeKnight"><img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/300c43fe-b2d8-4958-9d30-b64dcb75784a" alt="Try Hack Me Stats" cache-control:no-cache ></a>
 </div>  
 
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >

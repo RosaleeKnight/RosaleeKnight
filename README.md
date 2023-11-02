@@ -31,7 +31,7 @@
 
 <div align="center">
   <h3 align="center"> Security Information Event Management (SIEM), Intrusion Detection and Prevention (IDP), Incident Response (IR), Endpoint Detection and Response (EDR), Identity and Access Management (IAM), Security Tool Configuration and Maintenance, Security Policy Development and Implementation, Encryption and Data Protection, Network Security, Cloud Security, Compliance and Regulatory Frameworks, Security Architecture and Design, Risk Assessment and Mitigation, Cross-Functional Collaboration, Vulnerability Assessment and Penetration Testing (VAPT), Programming, Troubleshooting, Customer Service, Web Development </h3> 
-  <a href="http://tryhackme.com/p/RosaleeKnight"><img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/71403d93-7b55-48cd-b581-37f312feb735" alt="Try Hack Me Stats" cache-control:no-cache ></a>
+  <a href="http://tryhackme.com/p/RosaleeKnight"><img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/abbf4e85-293e-4771-b118-9041df532ea8" alt="Try Hack Me Stats" cache-control:no-cache ></a>
 </div>  
 
 

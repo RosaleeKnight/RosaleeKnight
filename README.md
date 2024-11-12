@@ -11,7 +11,7 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <h3 align="center"> I'm a part time cybersecurity student (full time help desk) with 2 years experience in cybersecurity, 2 years in software development, and 7 years in IT. Professionally I first started in end user security education and am trying to move into a SOC Analyst role. My first introduction to security was DevSecOps learning SNYK as a Software Developer. I've been passionate about cybersecurity every since. </h3>
+  <h3 align="center"> Dynamic and detail-oriented IT Specialist with hands-on experience in troubleshooting, system maintenance, and IT support. Proficient in managing hardware and software installations, ensuring optimal performance and security of information systems. Strong analytical skills combined with effective communication abilities, enabling collaboration with cross-functional teams to resolve technical issues. Eager to leverage a solid foundation in network management and user support to contribute to efficient IT operations. Committed to staying updated with the latest technology trends and best practices to enhance system functionality and user experience. 7 years IT, 3 Years Software Development, 3 years Cybersecurity.</h3>
   <img src="https://komarev.com/ghpvc/?username=RosaleeKnight&base=1000&style=for-the-badge">
 </div>
 
@@ -30,7 +30,7 @@
 <img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/cfa4bc0f-a86d-4419-a6b0-014d022cff48" width="11000px" height="10px" alt="Rainbow Line" >
 
 <div align="center">
-  <h3 align="center"> Security Information Event Management (SIEM), Intrusion Detection and Prevention (IDP), Incident Response (IR), Endpoint Detection and Response (EDR), Identity and Access Management (IAM), Security Tool Configuration and Maintenance, Security Policy Development and Implementation, Encryption and Data Protection, Network Security, Cloud Security, Compliance and Regulatory Frameworks, Security Architecture and Design, Risk Assessment and Mitigation, Cross-Functional Collaboration, Vulnerability Assessment and Penetration Testing (VAPT), Programming, Troubleshooting, Customer Service, Web Development </h3> 
+  <h3 align="center"> Troubleshooting , Customer Relationship Management (CRM), Technical Documentation, Web Development, End User Security Training, Customer Service, Cross-Functional Collaboration, Programming </h3> 
   <a href="http://tryhackme.com/p/RosaleeKnight"><img src="https://github.com/RosaleeKnight/RosaleeKnight/assets/97799058/2b7af054-ae8d-44d4-a1fa-5fbaa445df7e" alt="Try Hack Me Stats" cache-control:no-cache ></a>
 </div>  
 
